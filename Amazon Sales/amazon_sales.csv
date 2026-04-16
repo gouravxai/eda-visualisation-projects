@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerName,City,State,Product,Quantity,Price,PaymentMethod,Profit
+10001,2020-01-01,Customer_103,Kolkata,Delhi NCR,Camera,3,45326,Cash on Delivery,11676.07
+10002,2020-01-02,Customer_180,Hyderabad,Karnataka,Tablet,3,16924,Cash on Delivery,4460.9
+10003,2020-01-03,Customer_93,Chennai,Telangana,Camera,1,78162,Cash on Delivery,12364.67
+10004,2020-01-04,Customer_15,Mumbai,Tamil Nadu,Tablet,1,2869,Debit Card,570.7
+10005,2020-01-05,Customer_107,Mumbai,Karnataka,Mobile,3,99088,Credit Card,20854.21
+10006,2020-01-06,Customer_72,Bangalore,Telangana,Tablet,1,3014,UPI,858.66
+10007,2020-01-07,Customer_189,Bangalore,Delhi NCR,Smartwatch,1,12103,Debit Card,2890.0
+10008,2020-01-08,Customer_21,Kolkata,Delhi NCR,Mobile,1,84522,Cash on Delivery,16621.76
+10009,2020-01-09,Customer_103,Hyderabad,West Bengal,Tablet,4,98007,Debit Card,100794.19
+10010,2020-01-10,Customer_122,Kolkata,Maharashtra,Camera,4,35458,Cash on Delivery,9934.86
+10011,2020-01-11,Customer_75,Delhi,West Bengal,Camera,3,92605,UPI,47009.0
+10012,2020-01-12,Customer_88,Delhi,Tamil Nadu,Camera,1,84409,UPI,17516.83
+10013,2020-01-13,Customer_117,Kolkata,Karnataka,Headphones,4,25248,Credit Card,25971.43
+10014,2020-01-14,Customer_100,Hyderabad,Tamil Nadu,Laptop,3,91160,Cash on Delivery,67239.81
+10015,2020-01-15,Customer_104,Kolkata,Telangana,Camera,1,45516,Credit Card,5428.57
+10016,2020-01-16,Customer_152,Hyderabad,Delhi NCR,Mobile,2,31061,Credit Card,17718.44
+10017,2020-01-17,Customer_131,Hyderabad,West Bengal,Camera,1,26170,UPI,2122.03
+10018,2020-01-18,Customer_150,Chennai,West Bengal,Headphones,1,10024,Debit Card,2694.28
+10019,2020-01-19,Customer_53,Hyderabad,West Bengal,Smartwatch,4,84214,Debit Card,98609.56
+10020,2020-01-20,Customer_2,Bangalore,Tamil Nadu,Mobile,3,87947,Credit Card,24877.14
+10021,2020-01-21,Customer_88,Hyderabad,Delhi NCR,Headphones,3,45803,UPI,31675.04
+10022,2020-01-22,Customer_158,Hyderabad,Karnataka,Smartwatch,4,21296,Cash on Delivery,5117.12
+10023,2020-01-23,Customer_38,Hyderabad,Telangana,Mobile,1,93829,Debit Card,14201.55
+10024,2020-01-24,Customer_130,Delhi,Karnataka,Tablet,2,94708,Credit Card,33918.88
+10025,2020-01-25,Customer_192,Bangalore,Tamil Nadu,Laptop,1,88664,Debit Card,17303.78
+10026,2020-01-26,Customer_188,Bangalore,Telangana,Laptop,1,20257,Debit Card,5752.67
+10027,2020-01-27,Customer_21,Kolkata,West Bengal,Headphones,2,14855,Cash on Delivery,6478.64
+10028,2020-01-28,Customer_161,Chennai,Maharashtra,Smartwatch,4,87178,UPI,59392.45
+10029,2020-01-29,Customer_58,Hyderabad,Tamil Nadu,Laptop,3,22025,Cash on Delivery,16678.57
+10030,2020-01-30,Customer_22,Mumbai,Tamil Nadu,Smartwatch,4,6458,UPI,7430.14
+10031,2020-01-31,Customer_89,Chennai,Delhi NCR,Smartwatch,4,65610,Debit Card,14569.76
+10032,2020-02-01,Customer_49,Chennai,Karnataka,Headphones,1,72843,Credit Card,21534.6
+10033,2020-02-02,Customer_59,Bangalore,Tamil Nadu,Headphones,3,85961,Cash on Delivery,18447.15
+10034,2020-02-03,Customer_170,Chennai,Tamil Nadu,Headphones,3,51831,UPI,39432.51
+10035,2020-02-04,Customer_188,Hyderabad,West Bengal,Laptop,4,45427,Debit Card,21820.17
+10036,2020-02-05,Customer_15,Hyderabad,West Bengal,Headphones,2,95809,UPI,15912.9
+10037,2020-02-06,Customer_190,Delhi,Telangana,Laptop,4,40506,UPI,25917.99
+10038,2020-02-07,Customer_190,Hyderabad,Maharashtra,Headphones,2,7668,UPI,3235.73
+10039,2020-02-08,Customer_175,Hyderabad,Delhi NCR,Camera,3,93470,Debit Card,40726.18
+10040,2020-02-09,Customer_190,Bangalore,Maharashtra,Smartwatch,4,49195,Credit Card,12523.35
+10041,2020-02-10,Customer_51,Hyderabad,Telangana,Headphones,1,75233,Credit Card,15036.46
+10042,2020-02-11,Customer_108,Delhi,West Bengal,Mobile,4,26417,Credit Card,29122.19
+10043,2020-02-12,Customer_55,Mumbai,Karnataka,Smartwatch,3,83982,UPI,36734.69
+10044,2020-02-13,Customer_64,Bangalore,West Bengal,Smartwatch,1,12751,Debit Card,1327.16
+10045,2020-02-14,Customer_131,Mumbai,Delhi NCR,Headphones,1,48218,UPI,7745.95
+10046,2020-02-15,Customer_51,Bangalore,West Bengal,Tablet,2,9352,Credit Card,1161.34
+10047,2020-02-16,Customer_135,Kolkata,Delhi NCR,Headphones,1,81052,Credit Card,20678.14
+10048,2020-02-17,Customer_21,Chennai,Delhi NCR,Smartwatch,1,90835,Debit Card,23306.92
+10049,2020-02-18,Customer_73,Kolkata,Delhi NCR,Mobile,4,99493,UPI,78400.53
+10050,2020-02-19,Customer_167,Hyderabad,Telangana,Smartwatch,3,30927,Cash on Delivery,12829.36
+10051,2020-02-20,Customer_18,Mumbai,Delhi NCR,Mobile,2,43094,Cash on Delivery,21542.33
+10052,2020-02-21,Customer_132,Hyderabad,Delhi NCR,Laptop,4,56122,Credit Card,42354.55
+10053,2020-02-22,Customer_89,Chennai,Karnataka,Camera,1,31493,Debit Card,8077.42
+10054,2020-02-23,Customer_60,Bangalore,Maharashtra,Smartwatch,1,94247,UPI,19590.62
+10055,2020-02-24,Customer_14,Chennai,Tamil Nadu,Headphones,2,75539,UPI,37180.5
+10056,2020-02-25,Customer_9,Delhi,Maharashtra,Laptop,3,33707,Credit Card,20187.87
+10057,2020-02-26,Customer_90,Chennai,Delhi NCR,Camera,2,70814,Credit Card,21744.89
+10058,2020-02-27,Customer_53,Delhi,Karnataka,Headphones,4,9296,UPI,10764.26
+10059,2020-02-28,Customer_130,Chennai,West Bengal,Tablet,2,27398,UPI,10152.52
+10060,2020-02-29,Customer_84,Delhi,Karnataka,Headphones,1,37842,Credit Card,7616.55
+10061,2020-03-01,Customer_92,Mumbai,Delhi NCR,Mobile,4,15261,UPI,6417.06
+10062,2020-03-02,Customer_111,Hyderabad,Karnataka,Mobile,1,78709,Cash on Delivery,16246.54
+10063,2020-03-03,Customer_188,Hyderabad,Karnataka,Tablet,3,97985,Credit Card,56704.48
+10064,2020-03-04,Customer_199,Kolkata,Delhi NCR,Laptop,1,58704,UPI,5647.89
+10065,2020-03-05,Customer_172,Hyderabad,Telangana,Camera,1,69173,Credit Card,4489.1
+10066,2020-03-06,Customer_8,Bangalore,Karnataka,Headphones,2,33781,Debit Card,13586.03
+10067,2020-03-07,Customer_175,Chennai,Tamil Nadu,Mobile,1,15652,Credit Card,3770.93
+10068,2020-03-08,Customer_35,Kolkata,Tamil Nadu,Laptop,4,7103,Credit Card,5138.32
+10069,2020-03-09,Customer_81,Bangalore,Karnataka,Tablet,4,27500,Debit Card,11736.25
+10070,2020-03-10,Customer_164,Bangalore,Telangana,Smartwatch,3,37529,Cash on Delivery,24389.78
+10071,2020-03-11,Customer_50,Delhi,West Bengal,Mobile,4,20452,UPI,5728.72
+10072,2020-03-12,Customer_104,Hyderabad,Delhi NCR,Tablet,2,51393,Debit Card,16492.88
+10073,2020-03-13,Customer_132,Mumbai,Tamil Nadu,Headphones,3,33174,Credit Card,9040.75
+10074,2020-03-14,Customer_2,Mumbai,West Bengal,Camera,4,66450,UPI,25547.3
+10075,2020-03-15,Customer_134,Kolkata,Karnataka,Mobile,2,37436,Debit Card,7530.14
+10076,2020-03-16,Customer_54,Mumbai,West Bengal,Mobile,4,49406,UPI,28986.85
+10077,2020-03-17,Customer_106,Chennai,Maharashtra,Headphones,4,65059,UPI,16339.58
+10078,2020-03-18,Customer_4,Mumbai,Tamil Nadu,Smartwatch,1,17954,Debit Card,2683.2
+10079,2020-03-19,Customer_54,Kolkata,Karnataka,Laptop,4,84722,UPI,60297.28
+10080,2020-03-20,Customer_191,Mumbai,Delhi NCR,Camera,4,14356,Cash on Delivery,9809.37
+10081,2020-03-21,Customer_146,Chennai,Telangana,Mobile,2,4187,Debit Card,1220.06
+10082,2020-03-22,Customer_44,Delhi,Karnataka,Camera,2,79243,Cash on Delivery,41172.55
+10083,2020-03-23,Customer_162,Kolkata,Delhi NCR,Mobile,1,37098,Credit Card,3202.73
+10084,2020-03-24,Customer_190,Delhi,Telangana,Camera,4,94471,UPI,66667.88
+10085,2020-03-25,Customer_14,Delhi,Telangana,Tablet,1,23225,Credit Card,1521.48
+10086,2020-03-26,Customer_95,Delhi,Karnataka,Mobile,4,5606,Credit Card,1520.1
+10087,2020-03-27,Customer_48,Bangalore,West Bengal,Camera,3,59620,UPI,34603.41
+10088,2020-03-28,Customer_15,Hyderabad,West Bengal,Laptop,3,34828,Debit Card,20009.17
+10089,2020-03-29,Customer_190,Bangalore,Telangana,Tablet,1,28489,UPI,7678.02
+10090,2020-03-30,Customer_40,Hyderabad,West Bengal,Tablet,1,16387,Credit Card,3104.82
+10091,2020-03-31,Customer_82,Delhi,Maharashtra,Laptop,1,71463,Credit Card,20720.54
+10092,2020-04-01,Customer_111,Kolkata,Telangana,Camera,2,73832,Debit Card,9180.82
+10093,2020-04-02,Customer_53,Hyderabad,Telangana,Headphones,2,97980,UPI,14599.4
+10094,2020-04-03,Customer_24,Chennai,Delhi NCR,Laptop,2,4591,Credit Card,560.25
+10095,2020-04-04,Customer_154,Chennai,West Bengal,Camera,1,50516,Cash on Delivery,4865.66
+10096,2020-04-05,Customer_188,Mumbai,Telangana,Laptop,4,93683,Credit Card,69444.41
+10097,2020-04-06,Customer_124,Hyderabad,Maharashtra,Laptop,3,64061,Credit Card,40626.15
+10098,2020-04-07,Customer_41,Kolkata,Delhi NCR,Mobile,1,68736,Debit Card,4220.14
+10099,2020-04-08,Customer_157,Bangalore,Karnataka,Camera,2,83257,Cash on Delivery,47705.05
+10100,2020-04-09,Customer_15,Delhi,Telangana,Headphones,2,63753,Credit Card,33220.58
+10101,2020-04-10,Customer_45,Mumbai,Maharashtra,Mobile,1,86774,Credit Card,10773.26
+10102,2020-04-11,Customer_65,Chennai,Tamil Nadu,Laptop,1,13087,Cash on Delivery,906.89
+10103,2020-04-12,Customer_89,Bangalore,Maharashtra,Smartwatch,2,32816,UPI,6069.11
+10104,2020-04-13,Customer_71,Bangalore,Maharashtra,Laptop,4,25408,UPI,8307.0
+10105,2020-04-14,Customer_9,Delhi,Delhi NCR,Laptop,2,2136,Credit Card,345.27
+10106,2020-04-15,Customer_88,Hyderabad,Karnataka,Camera,2,19413,Credit Card,6974.72
+10107,2020-04-16,Customer_129,Chennai,Tamil Nadu,Camera,1,61500,UPI,6854.9
+10108,2020-04-17,Customer_136,Kolkata,West Bengal,Mobile,4,86514,Debit Card,48286.9
+10109,2020-04-18,Customer_63,Bangalore,West Bengal,Headphones,2,58358,Cash on Delivery,34708.58
+10110,2020-04-19,Customer_139,Delhi,Maharashtra,Mobile,2,68197,Cash on Delivery,30153.79
+10111,2020-04-20,Customer_81,Kolkata,Delhi NCR,Tablet,3,94789,Debit Card,81683.05
+10112,2020-04-21,Customer_136,Hyderabad,Delhi NCR,Laptop,1,94420,Debit Card,8086.05
+10113,2020-04-22,Customer_163,Chennai,West Bengal,Smartwatch,3,34854,Debit Card,15217.42
+10114,2020-04-23,Customer_163,Hyderabad,Tamil Nadu,Laptop,3,78240,Debit Card,44287.66
+10115,2020-04-24,Customer_33,Bangalore,Karnataka,Laptop,2,92063,Debit Card,12739.59
+10116,2020-04-25,Customer_123,Kolkata,Tamil Nadu,Mobile,1,18322,Debit Card,935.28
+10117,2020-04-26,Customer_5,Kolkata,Telangana,Smartwatch,4,8968,Cash on Delivery,7806.06
+10118,2020-04-27,Customer_41,Kolkata,Telangana,Smartwatch,2,29518,Debit Card,12424.41
+10119,2020-04-28,Customer_28,Bangalore,Karnataka,Smartwatch,4,53925,UPI,32936.79
+10120,2020-04-29,Customer_135,Bangalore,West Bengal,Mobile,4,61848,Debit Card,42653.11
+10121,2020-04-30,Customer_72,Hyderabad,Karnataka,Laptop,1,95422,Debit Card,14681.7
+10122,2020-05-01,Customer_12,Mumbai,Delhi NCR,Mobile,3,3700,Cash on Delivery,621.61
+10123,2020-05-02,Customer_162,Hyderabad,Telangana,Camera,1,95782,Cash on Delivery,12819.74
+10124,2020-05-03,Customer_33,Chennai,Maharashtra,Camera,4,25199,Debit Card,9502.1
+10125,2020-05-04,Customer_48,Delhi,Maharashtra,Mobile,2,46589,Cash on Delivery,6951.64
+10126,2020-05-05,Customer_151,Kolkata,West Bengal,Smartwatch,4,34115,Credit Card,39461.52
+10127,2020-05-06,Customer_62,Mumbai,Delhi NCR,Laptop,2,63934,Cash on Delivery,25553.13
+10128,2020-05-07,Customer_37,Delhi,Tamil Nadu,Mobile,2,56316,Cash on Delivery,26149.1
+10129,2020-05-08,Customer_99,Mumbai,Delhi NCR,Mobile,1,7520,Cash on Delivery,968.88
+10130,2020-05-09,Customer_172,Hyderabad,Maharashtra,Mobile,4,38455,Cash on Delivery,22809.47
+10131,2020-05-10,Customer_104,Bangalore,Maharashtra,Tablet,3,88465,UPI,28989.36
+10132,2020-05-11,Customer_35,Kolkata,Telangana,Camera,4,43605,UPI,12949.19
+10133,2020-05-12,Customer_193,Hyderabad,Delhi NCR,Smartwatch,4,16955,UPI,6426.48
+10134,2020-05-13,Customer_101,Delhi,Delhi NCR,Headphones,3,46049,Debit Card,34450.89
+10135,2020-05-14,Customer_175,Delhi,Maharashtra,Smartwatch,1,15917,Debit Card,3491.97
+10136,2020-05-15,Customer_131,Delhi,Tamil Nadu,Headphones,4,72293,Credit Card,53997.73
+10137,2020-05-16,Customer_1,Delhi,West Bengal,Tablet,4,80581,UPI,54399.42
+10138,2020-05-17,Customer_5,Delhi,West Bengal,Mobile,2,66925,Debit Card,37559.46
+10139,2020-05-18,Customer_142,Mumbai,Delhi NCR,Tablet,4,72269,Cash on Delivery,19710.28
+10140,2020-05-19,Customer_103,Hyderabad,West Bengal,Tablet,3,32954,Cash on Delivery,11878.29
+10141,2020-05-20,Customer_27,Kolkata,Maharashtra,Laptop,2,98671,UPI,27131.46
+10142,2020-05-21,Customer_137,Bangalore,Maharashtra,Camera,1,74617,Credit Card,18326.42
+10143,2020-05-22,Customer_15,Bangalore,Delhi NCR,Headphones,2,43458,Credit Card,25912.15
+10144,2020-05-23,Customer_90,Hyderabad,Delhi NCR,Mobile,3,91037,Cash on Delivery,30087.99
+10145,2020-05-24,Customer_42,Hyderabad,Telangana,Headphones,3,23113,Credit Card,18622.85
+10146,2020-05-25,Customer_124,Bangalore,Delhi NCR,Smartwatch,2,92226,UPI,47525.11
+10147,2020-05-26,Customer_179,Bangalore,Tamil Nadu,Headphones,1,45939,Cash on Delivery,4877.08
+10148,2020-05-27,Customer_63,Mumbai,West Bengal,Smartwatch,2,31345,Debit Card,9393.04
+10149,2020-05-28,Customer_96,Chennai,Delhi NCR,Camera,1,48313,Debit Card,7363.78
+10150,2020-05-29,Customer_52,Kolkata,Karnataka,Smartwatch,2,94365,Credit Card,55591.4
+10151,2020-05-30,Customer_96,Delhi,Telangana,Headphones,3,71166,Cash on Delivery,20329.91
+10152,2020-05-31,Customer_132,Chennai,Karnataka,Headphones,4,49861,Cash on Delivery,49819.02
+10153,2020-06-01,Customer_151,Hyderabad,Maharashtra,Smartwatch,4,99406,Debit Card,53101.96
+10154,2020-06-02,Customer_143,Bangalore,West Bengal,Tablet,1,51298,Cash on Delivery,11937.95
+10155,2020-06-03,Customer_171,Chennai,Delhi NCR,Camera,1,49221,Cash on Delivery,7629.39
+10156,2020-06-04,Customer_29,Kolkata,Karnataka,Laptop,1,46942,Cash on Delivery,9134.44
+10157,2020-06-05,Customer_36,Hyderabad,West Bengal,Mobile,3,5453,Credit Card,4223.12
+10158,2020-06-06,Customer_13,Delhi,Maharashtra,Headphones,2,56935,Cash on Delivery,28586.08
+10159,2020-06-07,Customer_160,Delhi,Tamil Nadu,Mobile,3,45370,UPI,36287.71
+10160,2020-06-08,Customer_71,Kolkata,Telangana,Laptop,4,10328,Credit Card,2681.33
+10161,2020-06-09,Customer_187,Kolkata,West Bengal,Mobile,1,17534,Cash on Delivery,3910.3
+10162,2020-06-10,Customer_86,Bangalore,West Bengal,Laptop,2,87280,Cash on Delivery,14837.05
+10163,2020-06-11,Customer_28,Delhi,Tamil Nadu,Smartwatch,4,86925,UPI,53530.03
+10164,2020-06-12,Customer_66,Hyderabad,West Bengal,Tablet,4,38320,Credit Card,28685.91
+10165,2020-06-13,Customer_170,Chennai,Maharashtra,Headphones,4,51170,Debit Card,30842.18
+10166,2020-06-14,Customer_45,Hyderabad,Maharashtra,Laptop,3,82201,Debit Card,44364.6
+10167,2020-06-15,Customer_62,Mumbai,Tamil Nadu,Mobile,1,10640,Credit Card,3182.76
+10168,2020-06-16,Customer_185,Mumbai,Telangana,Headphones,4,93057,Cash on Delivery,31194.32
+10169,2020-06-17,Customer_134,Kolkata,Delhi NCR,Tablet,1,32049,Cash on Delivery,7014.37
+10170,2020-06-18,Customer_28,Bangalore,Karnataka,Smartwatch,3,7618,Debit Card,3405.25
+10171,2020-06-19,Customer_28,Mumbai,Delhi NCR,Headphones,4,58053,Debit Card,19332.22
+10172,2020-06-20,Customer_108,Delhi,West Bengal,Laptop,3,3920,Debit Card,1054.69
+10173,2020-06-21,Customer_44,Hyderabad,Karnataka,Tablet,3,45937,UPI,39595.62
+10174,2020-06-22,Customer_84,Hyderabad,Tamil Nadu,Mobile,1,71724,Debit Card,19358.33
+10175,2020-06-23,Customer_30,Kolkata,Tamil Nadu,Tablet,4,14207,UPI,15727.75
+10176,2020-06-24,Customer_190,Chennai,Telangana,Tablet,3,67774,Credit Card,60566.21
+10177,2020-06-25,Customer_75,Kolkata,Karnataka,Camera,4,34972,Cash on Delivery,14279.61
+10178,2020-06-26,Customer_128,Chennai,Maharashtra,Tablet,1,12799,Debit Card,1777.27
+10179,2020-06-27,Customer_92,Kolkata,Karnataka,Tablet,3,73088,Cash on Delivery,47647.11
+10180,2020-06-28,Customer_190,Kolkata,West Bengal,Headphones,1,30916,Cash on Delivery,5285.11
+10181,2020-06-29,Customer_129,Kolkata,Maharashtra,Mobile,4,72463,Debit Card,44810.36
+10182,2020-06-30,Customer_121,Chennai,Tamil Nadu,Headphones,4,95500,Debit Card,53270.97
+10183,2020-07-01,Customer_27,Chennai,Karnataka,Headphones,1,78700,Credit Card,15617.63
+10184,2020-07-02,Customer_190,Kolkata,Delhi NCR,Laptop,2,39158,UPI,15185.34
+10185,2020-07-03,Customer_121,Mumbai,Telangana,Headphones,3,86607,UPI,23478.58
+10186,2020-07-04,Customer_116,Bangalore,Delhi NCR,Camera,4,73696,Cash on Delivery,49504.54
+10187,2020-07-05,Customer_3,Bangalore,Telangana,Camera,4,63510,Debit Card,47852.99
+10188,2020-07-06,Customer_103,Bangalore,West Bengal,Laptop,3,60692,Credit Card,35062.69
+10189,2020-07-07,Customer_198,Chennai,Delhi NCR,Smartwatch,1,63744,Credit Card,6535.47
+10190,2020-07-08,Customer_155,Chennai,Karnataka,Mobile,1,17810,Credit Card,4195.46
+10191,2020-07-09,Customer_137,Mumbai,Karnataka,Mobile,1,7126,Credit Card,401.19
+10192,2020-07-10,Customer_62,Bangalore,Delhi NCR,Headphones,2,32009,Credit Card,8879.81
+10193,2020-07-11,Customer_165,Bangalore,Karnataka,Headphones,2,92932,UPI,45546.56
+10194,2020-07-12,Customer_51,Kolkata,West Bengal,Smartwatch,4,2192,UPI,1674.45
+10195,2020-07-13,Customer_172,Chennai,Maharashtra,Headphones,1,38413,UPI,4428.66
+10196,2020-07-14,Customer_152,Bangalore,West Bengal,Mobile,3,14816,Debit Card,9944.72
+10197,2020-07-15,Customer_59,Hyderabad,Telangana,Tablet,4,41082,Cash on Delivery,31525.95
+10198,2020-07-16,Customer_118,Mumbai,West Bengal,Camera,3,67048,Credit Card,50097.11
+10199,2020-07-17,Customer_160,Hyderabad,Telangana,Tablet,4,52940,Debit Card,49500.23
+10200,2020-07-18,Customer_96,Hyderabad,Karnataka,Tablet,2,34130,Credit Card,13824.49
+10201,2020-07-19,Customer_180,Mumbai,Maharashtra,Mobile,4,42142,UPI,29001.18
+10202,2020-07-20,Customer_113,Hyderabad,Karnataka,Tablet,2,38468,Debit Card,6408.43
+10203,2020-07-21,Customer_62,Bangalore,Tamil Nadu,Smartwatch,4,32698,UPI,15084.67
+10204,2020-07-22,Customer_186,Chennai,Karnataka,Laptop,1,12655,Credit Card,1958.68
+10205,2020-07-23,Customer_52,Mumbai,Telangana,Headphones,3,49897,Credit Card,29911.98
+10206,2020-07-24,Customer_12,Kolkata,Karnataka,Laptop,1,32075,Cash on Delivery,5723.04
+10207,2020-07-25,Customer_39,Hyderabad,Karnataka,Camera,4,11359,Credit Card,5545.29
+10208,2020-07-26,Customer_130,Mumbai,Maharashtra,Headphones,4,44056,UPI,9095.99
+10209,2020-07-27,Customer_131,Delhi,Karnataka,Tablet,4,53831,Credit Card,37479.25
+10210,2020-07-28,Customer_113,Delhi,Maharashtra,Camera,2,61191,Cash on Delivery,14857.97
+10211,2020-07-29,Customer_101,Chennai,Delhi NCR,Headphones,3,35272,Cash on Delivery,24724.13
+10212,2020-07-30,Customer_113,Bangalore,Tamil Nadu,Smartwatch,3,16671,UPI,2800.06
+10213,2020-07-31,Customer_184,Chennai,Maharashtra,Smartwatch,4,29048,Debit Card,22797.68
+10214,2020-08-01,Customer_81,Chennai,Telangana,Smartwatch,4,78274,Credit Card,89347.75
+10215,2020-08-02,Customer_187,Chennai,Delhi NCR,Smartwatch,2,27963,Cash on Delivery,5234.8
+10216,2020-08-03,Customer_113,Chennai,Maharashtra,Tablet,1,45954,Credit Card,7716.25
+10217,2020-08-04,Customer_2,Kolkata,Maharashtra,Laptop,1,74309,Credit Card,5413.82
+10218,2020-08-05,Customer_130,Kolkata,Tamil Nadu,Headphones,3,97430,Debit Card,60334.64
+10219,2020-08-06,Customer_54,Mumbai,Telangana,Tablet,2,2717,Cash on Delivery,1019.6
+10220,2020-08-07,Customer_87,Delhi,West Bengal,Smartwatch,4,13676,Credit Card,8306.33
+10221,2020-08-08,Customer_129,Chennai,West Bengal,Laptop,3,6434,Cash on Delivery,3481.0
+10222,2020-08-09,Customer_147,Mumbai,Maharashtra,Camera,2,51810,UPI,28406.77
+10223,2020-08-10,Customer_126,Delhi,Karnataka,Camera,1,96636,UPI,9574.07
+10224,2020-08-11,Customer_130,Hyderabad,Telangana,Camera,2,6994,Credit Card,778.31
+10225,2020-08-12,Customer_53,Bangalore,Delhi NCR,Smartwatch,1,6234,Cash on Delivery,1654.6
+10226,2020-08-13,Customer_172,Kolkata,Karnataka,Camera,2,71300,Credit Card,27704.22
+10227,2020-08-14,Customer_160,Hyderabad,Karnataka,Mobile,3,45949,Cash on Delivery,37586.0
+10228,2020-08-15,Customer_198,Delhi,Telangana,Headphones,1,39405,Cash on Delivery,7850.91
+10229,2020-08-16,Customer_160,Hyderabad,Maharashtra,Headphones,3,36872,Debit Card,27934.99
+10230,2020-08-17,Customer_68,Bangalore,Maharashtra,Smartwatch,3,44215,Debit Card,20880.76
+10231,2020-08-18,Customer_183,Delhi,Maharashtra,Mobile,1,25185,Debit Card,5980.56
+10232,2020-08-19,Customer_184,Hyderabad,Maharashtra,Tablet,1,45442,Credit Card,12644.71
+10233,2020-08-20,Customer_123,Kolkata,West Bengal,Tablet,4,53759,Debit Card,41508.56
+10234,2020-08-21,Customer_145,Kolkata,Maharashtra,Camera,4,43153,Debit Card,16432.02
+10235,2020-08-22,Customer_38,Mumbai,West Bengal,Laptop,4,79535,UPI,37285.82
+10236,2020-08-23,Customer_24,Hyderabad,West Bengal,Tablet,3,4581,Cash on Delivery,1369.64
+10237,2020-08-24,Customer_69,Chennai,Maharashtra,Laptop,3,53717,Cash on Delivery,18002.86
+10238,2020-08-25,Customer_116,Hyderabad,Tamil Nadu,Headphones,4,4763,Debit Card,2412.06
+10239,2020-08-26,Customer_98,Delhi,Delhi NCR,Laptop,3,94910,Cash on Delivery,53752.31
+10240,2020-08-27,Customer_198,Delhi,Karnataka,Headphones,3,57480,UPI,33970.32
+10241,2020-08-28,Customer_139,Hyderabad,West Bengal,Mobile,1,40759,UPI,6383.88
+10242,2020-08-29,Customer_144,Bangalore,Telangana,Mobile,1,78067,Debit Card,15914.36
+10243,2020-08-30,Customer_97,Kolkata,Telangana,Smartwatch,3,27307,UPI,5766.72
+10244,2020-08-31,Customer_124,Delhi,Delhi NCR,Smartwatch,4,98371,Cash on Delivery,28310.02
+10245,2020-09-01,Customer_187,Kolkata,Telangana,Camera,2,13064,Credit Card,2428.79
+10246,2020-09-02,Customer_70,Delhi,Tamil Nadu,Tablet,4,78848,Cash on Delivery,56618.97
+10247,2020-09-03,Customer_93,Mumbai,Telangana,Camera,2,39548,Credit Card,8186.33
+10248,2020-09-04,Customer_3,Chennai,Karnataka,Headphones,4,38945,Debit Card,18821.51
+10249,2020-09-05,Customer_148,Delhi,Karnataka,Camera,1,49937,Credit Card,7494.46
+10250,2020-09-06,Customer_187,Kolkata,West Bengal,Laptop,3,8476,UPI,6432.43
+10251,2020-09-07,Customer_164,Mumbai,Maharashtra,Headphones,3,53756,Cash on Delivery,8622.28
+10252,2020-09-08,Customer_147,Delhi,Tamil Nadu,Smartwatch,1,92101,Credit Card,19557.16
+10253,2020-09-09,Customer_90,Bangalore,West Bengal,Mobile,2,4382,Cash on Delivery,1903.71
+10254,2020-09-10,Customer_195,Chennai,Tamil Nadu,Smartwatch,2,51683,Debit Card,25806.76
+10255,2020-09-11,Customer_147,Delhi,Maharashtra,Tablet,2,89999,Debit Card,50973.32
+10256,2020-09-12,Customer_148,Mumbai,Telangana,Headphones,1,47276,UPI,2601.81
+10257,2020-09-13,Customer_96,Bangalore,Telangana,Headphones,2,35402,Debit Card,6262.33
+10258,2020-09-14,Customer_199,Hyderabad,Maharashtra,Laptop,1,93881,Credit Card,25492.71
+10259,2020-09-15,Customer_52,Mumbai,West Bengal,Tablet,4,28946,Debit Card,19061.48
+10260,2020-09-16,Customer_161,Mumbai,Maharashtra,Mobile,4,81698,UPI,62465.53
+10261,2020-09-17,Customer_168,Bangalore,Delhi NCR,Headphones,1,75933,Cash on Delivery,16383.06
+10262,2020-09-18,Customer_128,Mumbai,Karnataka,Headphones,3,24335,Cash on Delivery,16044.06
+10263,2020-09-19,Customer_39,Bangalore,West Bengal,Laptop,4,47095,Debit Card,53299.31
+10264,2020-09-20,Customer_82,Delhi,Tamil Nadu,Camera,2,81930,Credit Card,49033.03
+10265,2020-09-21,Customer_104,Bangalore,Delhi NCR,Mobile,1,29197,UPI,6716.46
+10266,2020-09-22,Customer_129,Bangalore,West Bengal,Smartwatch,2,24010,Credit Card,5849.09
+10267,2020-09-23,Customer_11,Chennai,Maharashtra,Tablet,2,26123,UPI,14103.19
+10268,2020-09-24,Customer_185,Bangalore,Maharashtra,Headphones,3,89923,Debit Card,16808.02
+10269,2020-09-25,Customer_178,Bangalore,Maharashtra,Headphones,2,4890,UPI,1053.99
+10270,2020-09-26,Customer_151,Hyderabad,Maharashtra,Smartwatch,3,95305,UPI,78439.76
+10271,2020-09-27,Customer_159,Delhi,Tamil Nadu,Mobile,4,10026,Debit Card,4573.78
+10272,2020-09-28,Customer_42,Chennai,Delhi NCR,Camera,1,66925,Credit Card,7038.02
+10273,2020-09-29,Customer_99,Hyderabad,Telangana,Headphones,2,70842,Debit Card,11976.74
+10274,2020-09-30,Customer_7,Kolkata,Karnataka,Mobile,1,35665,UPI,9443.31
+10275,2020-10-01,Customer_144,Delhi,Tamil Nadu,Smartwatch,2,11277,Debit Card,3947.28
+10276,2020-10-02,Customer_90,Delhi,Tamil Nadu,Laptop,1,44239,UPI,9676.1
+10277,2020-10-03,Customer_112,Kolkata,Telangana,Camera,2,49664,Debit Card,10902.9
+10278,2020-10-04,Customer_60,Bangalore,Telangana,Tablet,2,50008,Cash on Delivery,23954.84
+10279,2020-10-05,Customer_113,Hyderabad,Karnataka,Headphones,2,16683,Cash on Delivery,8007.89
+10280,2020-10-06,Customer_2,Mumbai,Karnataka,Mobile,2,2670,Debit Card,684.32
+10281,2020-10-07,Customer_129,Chennai,Telangana,Laptop,2,91211,Credit Card,27850.49
+10282,2020-10-08,Customer_48,Mumbai,Maharashtra,Tablet,2,19889,UPI,4074.16
+10283,2020-10-09,Customer_140,Kolkata,Tamil Nadu,Mobile,2,57612,Cash on Delivery,33892.02
+10284,2020-10-10,Customer_197,Delhi,West Bengal,Mobile,2,46535,Credit Card,19675.06
+10285,2020-10-11,Customer_37,Delhi,Karnataka,Tablet,2,80542,UPI,45689.22
+10286,2020-10-12,Customer_160,Chennai,Karnataka,Laptop,1,56319,Cash on Delivery,7087.54
+10287,2020-10-13,Customer_9,Delhi,Telangana,Smartwatch,3,94067,Cash on Delivery,69272.65
+10288,2020-10-14,Customer_99,Delhi,Delhi NCR,Laptop,2,23639,Debit Card,11415.97
+10289,2020-10-15,Customer_147,Chennai,West Bengal,Camera,3,66712,UPI,44613.1
+10290,2020-10-16,Customer_48,Hyderabad,West Bengal,Headphones,2,18633,Credit Card,10859.68
+10291,2020-10-17,Customer_131,Hyderabad,Karnataka,Tablet,2,36660,Credit Card,10879.87
+10292,2020-10-18,Customer_148,Chennai,Maharashtra,Smartwatch,1,70975,Credit Card,5868.17
+10293,2020-10-19,Customer_152,Kolkata,Delhi NCR,Tablet,4,34172,UPI,29788.04
+10294,2020-10-20,Customer_54,Delhi,West Bengal,Tablet,4,61197,Credit Card,56870.97
+10295,2020-10-21,Customer_120,Delhi,Karnataka,Laptop,1,60847,Credit Card,11790.03
+10296,2020-10-22,Customer_161,Kolkata,West Bengal,Headphones,3,13577,Credit Card,4142.52
+10297,2020-10-23,Customer_152,Hyderabad,Delhi NCR,Camera,4,79299,Debit Card,55862.65
+10298,2020-10-24,Customer_116,Bangalore,Delhi NCR,Mobile,1,22176,Debit Card,2839.58
+10299,2020-10-25,Customer_75,Bangalore,Tamil Nadu,Mobile,1,46386,UPI,7276.42
+10300,2020-10-26,Customer_113,Bangalore,Telangana,Tablet,4,65972,UPI,55760.76
+10301,2020-10-27,Customer_164,Hyderabad,Telangana,Headphones,3,91791,Credit Card,65071.65
+10302,2020-10-28,Customer_166,Hyderabad,Karnataka,Smartwatch,1,43003,Debit Card,4646.74
+10303,2020-10-29,Customer_104,Kolkata,Delhi NCR,Laptop,2,21996,Cash on Delivery,6657.37
+10304,2020-10-30,Customer_84,Delhi,Tamil Nadu,Headphones,3,88598,Cash on Delivery,31175.08
+10305,2020-10-31,Customer_112,Kolkata,Tamil Nadu,Headphones,3,37931,Credit Card,11340.37
+10306,2020-11-01,Customer_99,Kolkata,West Bengal,Laptop,4,37710,Credit Card,37083.53
+10307,2020-11-02,Customer_153,Hyderabad,West Bengal,Tablet,4,36693,Debit Card,40701.81
+10308,2020-11-03,Customer_93,Bangalore,Tamil Nadu,Headphones,2,37740,Debit Card,10760.28
+10309,2020-11-04,Customer_146,Mumbai,West Bengal,Mobile,1,79241,Debit Card,18845.07
+10310,2020-11-05,Customer_128,Delhi,Delhi NCR,Laptop,4,95583,UPI,104854.1
+10311,2020-11-06,Customer_110,Hyderabad,Maharashtra,Smartwatch,4,78502,UPI,82122.84
+10312,2020-11-07,Customer_82,Bangalore,Delhi NCR,Camera,3,19374,Credit Card,5562.47
+10313,2020-11-08,Customer_194,Mumbai,Tamil Nadu,Tablet,4,78674,UPI,90970.11
+10314,2020-11-09,Customer_54,Mumbai,Tamil Nadu,Laptop,4,83471,Debit Card,48135.76
+10315,2020-11-10,Customer_163,Hyderabad,Delhi NCR,Camera,4,47913,Debit Card,25836.64
+10316,2020-11-11,Customer_189,Chennai,West Bengal,Camera,4,68025,UPI,17851.89
+10317,2020-11-12,Customer_169,Delhi,West Bengal,Smartwatch,3,46516,Cash on Delivery,23938.54
+10318,2020-11-13,Customer_161,Mumbai,Telangana,Headphones,2,89796,Credit Card,13874.09
+10319,2020-11-14,Customer_68,Hyderabad,Tamil Nadu,Smartwatch,2,28069,Cash on Delivery,6295.03
+10320,2020-11-15,Customer_33,Hyderabad,Karnataka,Headphones,1,58233,Credit Card,7525.78
+10321,2020-11-16,Customer_142,Bangalore,Telangana,Headphones,4,86811,Cash on Delivery,87577.22
+10322,2020-11-17,Customer_21,Chennai,West Bengal,Laptop,3,61049,UPI,49243.13
+10323,2020-11-18,Customer_48,Delhi,Delhi NCR,Laptop,1,41178,Credit Card,5172.64
+10324,2020-11-19,Customer_148,Kolkata,West Bengal,Tablet,1,34821,Credit Card,9216.23
+10325,2020-11-20,Customer_128,Bangalore,Delhi NCR,Headphones,2,53727,Credit Card,28400.92
+10326,2020-11-21,Customer_136,Mumbai,Telangana,Camera,3,62935,Debit Card,45532.73
+10327,2020-11-22,Customer_135,Mumbai,Tamil Nadu,Mobile,3,18999,Debit Card,4940.15
+10328,2020-11-23,Customer_195,Bangalore,West Bengal,Tablet,3,64522,Cash on Delivery,43084.06
+10329,2020-11-24,Customer_145,Hyderabad,Delhi NCR,Laptop,2,40712,UPI,23308.11
+10330,2020-11-25,Customer_128,Mumbai,Tamil Nadu,Smartwatch,2,66551,Debit Card,29366.98
+10331,2020-11-26,Customer_33,Chennai,Karnataka,Tablet,2,42172,Credit Card,11209.67
+10332,2020-11-27,Customer_176,Delhi,Delhi NCR,Tablet,2,35722,Debit Card,12513.05
+10333,2020-11-28,Customer_187,Chennai,Telangana,Tablet,2,12625,UPI,5338.64
+10334,2020-11-29,Customer_115,Mumbai,Karnataka,Tablet,4,69165,Debit Card,49146.6
+10335,2020-11-30,Customer_119,Kolkata,Karnataka,Mobile,4,78509,Credit Card,25119.19
+10336,2020-12-01,Customer_22,Delhi,Maharashtra,Smartwatch,3,8859,Cash on Delivery,3402.28
+10337,2020-12-02,Customer_158,Delhi,West Bengal,Smartwatch,1,43609,Credit Card,10928.37
+10338,2020-12-03,Customer_38,Bangalore,Delhi NCR,Smartwatch,3,45307,UPI,36067.25
+10339,2020-12-04,Customer_109,Bangalore,Karnataka,Headphones,1,23839,Cash on Delivery,2010.22
+10340,2020-12-05,Customer_51,Kolkata,Maharashtra,Camera,2,29216,Debit Card,16834.07
+10341,2020-12-06,Customer_182,Hyderabad,Telangana,Smartwatch,1,54953,Debit Card,7265.1
+10342,2020-12-07,Customer_8,Delhi,Tamil Nadu,Tablet,3,86481,Debit Card,55930.32
+10343,2020-12-08,Customer_27,Kolkata,Delhi NCR,Tablet,3,62593,Cash on Delivery,44683.19
+10344,2020-12-09,Customer_27,Bangalore,Karnataka,Smartwatch,1,74075,Credit Card,18739.98
+10345,2020-12-10,Customer_21,Bangalore,West Bengal,Smartwatch,4,51522,Cash on Delivery,59031.32
+10346,2020-12-11,Customer_30,Delhi,Maharashtra,Tablet,2,6886,Cash on Delivery,1765.98
+10347,2020-12-12,Customer_97,Chennai,Karnataka,Headphones,2,9485,UPI,5019.97
+10348,2020-12-13,Customer_28,Mumbai,West Bengal,Laptop,3,33455,Cash on Delivery,8322.44
+10349,2020-12-14,Customer_111,Bangalore,Karnataka,Laptop,4,18767,Debit Card,16984.9
+10350,2020-12-15,Customer_192,Hyderabad,Delhi NCR,Smartwatch,1,30453,Credit Card,7171.51
+10351,2020-12-16,Customer_197,Hyderabad,Delhi NCR,Mobile,2,78280,Credit Card,34354.09
+10352,2020-12-17,Customer_61,Bangalore,Delhi NCR,Smartwatch,4,55442,Credit Card,25077.23
+10353,2020-12-18,Customer_48,Chennai,Telangana,Smartwatch,2,53877,Debit Card,28906.17
+10354,2020-12-19,Customer_147,Chennai,Telangana,Laptop,4,14226,Debit Card,5247.38
+10355,2020-12-20,Customer_4,Kolkata,Maharashtra,Tablet,4,95405,Debit Card,24198.03
+10356,2020-12-21,Customer_35,Hyderabad,Delhi NCR,Smartwatch,3,24588,Debit Card,16918.97
+10357,2020-12-22,Customer_192,Kolkata,West Bengal,Tablet,2,80976,Debit Card,27348.66
+10358,2020-12-23,Customer_49,Hyderabad,Karnataka,Tablet,1,33709,Cash on Delivery,8841.01
+10359,2020-12-24,Customer_17,Mumbai,Tamil Nadu,Mobile,3,49788,Debit Card,21784.63
+10360,2020-12-25,Customer_172,Mumbai,West Bengal,Tablet,3,90031,Debit Card,24867.37
+10361,2020-12-26,Customer_158,Delhi,Telangana,Laptop,1,39019,Debit Card,10110.23
+10362,2020-12-27,Customer_46,Kolkata,Telangana,Headphones,3,46948,Debit Card,26369.86
+10363,2020-12-28,Customer_117,Bangalore,West Bengal,Headphones,4,67133,Credit Card,26127.88
+10364,2020-12-29,Customer_6,Kolkata,Telangana,Camera,4,68458,Debit Card,63007.65
+10365,2020-12-30,Customer_99,Bangalore,Delhi NCR,Smartwatch,2,29526,Cash on Delivery,10498.17
+10366,2020-12-31,Customer_124,Chennai,Maharashtra,Laptop,2,75493,Cash on Delivery,30360.0
+10367,2021-01-01,Customer_37,Kolkata,Karnataka,Tablet,1,54198,Cash on Delivery,8954.84
+10368,2021-01-02,Customer_24,Chennai,Maharashtra,Headphones,2,45395,UPI,23349.12
+10369,2021-01-03,Customer_93,Mumbai,Karnataka,Laptop,4,26031,Credit Card,26800.55
+10370,2021-01-04,Customer_46,Mumbai,Karnataka,Headphones,1,77542,Debit Card,17628.96
+10371,2021-01-05,Customer_181,Delhi,Maharashtra,Tablet,1,39701,UPI,3031.19
+10372,2021-01-06,Customer_95,Kolkata,West Bengal,Headphones,2,27939,Debit Card,14512.27
+10373,2021-01-07,Customer_99,Chennai,Karnataka,Smartwatch,4,51145,UPI,44547.96
+10374,2021-01-08,Customer_188,Bangalore,Maharashtra,Smartwatch,1,22324,UPI,5006.29
+10375,2021-01-09,Customer_116,Mumbai,Karnataka,Camera,4,24867,Cash on Delivery,13999.69
+10376,2021-01-10,Customer_191,Mumbai,Tamil Nadu,Camera,4,2203,Cash on Delivery,2377.65
+10377,2021-01-11,Customer_160,Bangalore,West Bengal,Headphones,4,18544,UPI,17160.09
+10378,2021-01-12,Customer_161,Chennai,Delhi NCR,Laptop,2,17899,Cash on Delivery,2797.53
+10379,2021-01-13,Customer_67,Chennai,Karnataka,Smartwatch,3,31063,UPI,14159.56
+10380,2021-01-14,Customer_128,Kolkata,Tamil Nadu,Laptop,3,92880,Credit Card,75677.26
+10381,2021-01-15,Customer_18,Kolkata,Delhi NCR,Laptop,1,5748,Cash on Delivery,355.22
+10382,2021-01-16,Customer_25,Hyderabad,Delhi NCR,Headphones,4,68629,Cash on Delivery,79706.86
+10383,2021-01-17,Customer_54,Hyderabad,Karnataka,Laptop,2,82764,Cash on Delivery,36381.51
+10384,2021-01-18,Customer_58,Delhi,Maharashtra,Smartwatch,4,22884,Credit Card,19025.21
+10385,2021-01-19,Customer_67,Mumbai,Karnataka,Tablet,4,27183,UPI,12791.21
+10386,2021-01-20,Customer_104,Kolkata,Tamil Nadu,Camera,2,83570,Debit Card,18752.76
+10387,2021-01-21,Customer_174,Chennai,Delhi NCR,Tablet,3,73246,Cash on Delivery,62738.4
+10388,2021-01-22,Customer_24,Bangalore,Karnataka,Laptop,4,21259,UPI,10592.77
+10389,2021-01-23,Customer_114,Chennai,Maharashtra,Tablet,4,37959,Credit Card,37029.21
+10390,2021-01-24,Customer_32,Mumbai,Karnataka,Smartwatch,3,35457,Debit Card,15772.74
+10391,2021-01-25,Customer_175,Hyderabad,West Bengal,Smartwatch,2,87679,Cash on Delivery,14872.73
+10392,2021-01-26,Customer_86,Chennai,Maharashtra,Laptop,1,4103,Credit Card,216.14
+10393,2021-01-27,Customer_151,Delhi,Tamil Nadu,Headphones,3,67901,Credit Card,37901.86
+10394,2021-01-28,Customer_194,Mumbai,Delhi NCR,Tablet,1,46535,Debit Card,13678.72
+10395,2021-01-29,Customer_127,Hyderabad,Karnataka,Headphones,1,18103,UPI,2575.77
+10396,2021-01-30,Customer_155,Bangalore,Maharashtra,Headphones,3,92012,Cash on Delivery,38451.29
+10397,2021-01-31,Customer_130,Hyderabad,West Bengal,Mobile,4,80278,Cash on Delivery,43678.59
+10398,2021-02-01,Customer_17,Delhi,Maharashtra,Laptop,1,14391,UPI,2592.34
+10399,2021-02-02,Customer_104,Mumbai,Telangana,Camera,1,30901,UPI,4949.3
+10400,2021-02-03,Customer_161,Bangalore,West Bengal,Smartwatch,2,99537,UPI,53745.73
+10401,2021-02-04,Customer_137,Delhi,Tamil Nadu,Smartwatch,4,83159,Debit Card,58670.4
+10402,2021-02-05,Customer_43,Hyderabad,Delhi NCR,Laptop,1,69914,Debit Card,12370.55
+10403,2021-02-06,Customer_176,Delhi,Tamil Nadu,Camera,2,52357,Cash on Delivery,8858.06
+10404,2021-02-07,Customer_39,Mumbai,Karnataka,Smartwatch,4,88908,Debit Card,105155.01
+10405,2021-02-08,Customer_170,Kolkata,Maharashtra,Laptop,3,40437,Credit Card,13646.67
+10406,2021-02-09,Customer_26,Delhi,Telangana,Smartwatch,3,37503,Cash on Delivery,7688.98
+10407,2021-02-10,Customer_99,Delhi,West Bengal,Headphones,2,98282,Debit Card,42415.87
+10408,2021-02-11,Customer_50,Hyderabad,West Bengal,Tablet,3,95459,UPI,56943.66
+10409,2021-02-12,Customer_153,Hyderabad,Maharashtra,Tablet,1,77403,Credit Card,11903.53
+10410,2021-02-13,Customer_152,Bangalore,Telangana,Smartwatch,4,43258,UPI,26914.79
+10411,2021-02-14,Customer_13,Hyderabad,Maharashtra,Mobile,1,35724,Cash on Delivery,8797.61
+10412,2021-02-15,Customer_60,Chennai,Karnataka,Camera,1,66286,UPI,6557.55
+10413,2021-02-16,Customer_135,Mumbai,Tamil Nadu,Camera,3,76842,Debit Card,58798.73
+10414,2021-02-17,Customer_57,Mumbai,West Bengal,Camera,1,16908,Debit Card,3587.65
+10415,2021-02-18,Customer_36,Kolkata,Karnataka,Headphones,3,94617,Cash on Delivery,43923.8
+10416,2021-02-19,Customer_173,Kolkata,Tamil Nadu,Camera,4,52626,UPI,34629.41
+10417,2021-02-20,Customer_20,Mumbai,Karnataka,Tablet,4,39228,Cash on Delivery,17913.36
+10418,2021-02-21,Customer_65,Kolkata,Telangana,Headphones,1,25386,UPI,6042.59
+10419,2021-02-22,Customer_8,Bangalore,West Bengal,Laptop,2,48754,Credit Card,17377.75
+10420,2021-02-23,Customer_144,Hyderabad,Maharashtra,Camera,3,30302,Debit Card,11837.2
+10421,2021-02-24,Customer_142,Mumbai,Maharashtra,Camera,3,62815,Cash on Delivery,37502.92
+10422,2021-02-25,Customer_115,Kolkata,Tamil Nadu,Laptop,1,86748,Credit Card,25931.89
+10423,2021-02-26,Customer_143,Mumbai,Delhi NCR,Camera,3,65344,Credit Card,31132.93
+10424,2021-02-27,Customer_92,Chennai,Telangana,Laptop,3,37618,Cash on Delivery,31618.63
+10425,2021-02-28,Customer_98,Delhi,Tamil Nadu,Headphones,2,78234,Cash on Delivery,21319.42
+10426,2021-03-01,Customer_66,Hyderabad,Delhi NCR,Tablet,2,63114,Credit Card,8038.6
+10427,2021-03-02,Customer_32,Mumbai,Karnataka,Laptop,1,72130,UPI,7289.5
+10428,2021-03-03,Customer_191,Delhi,Telangana,Mobile,2,27525,Credit Card,8514.79
+10429,2021-03-04,Customer_86,Kolkata,Karnataka,Laptop,1,81818,Cash on Delivery,8583.42
+10430,2021-03-05,Customer_51,Delhi,West Bengal,Camera,4,16334,Credit Card,3270.51
+10431,2021-03-06,Customer_153,Hyderabad,Telangana,Headphones,1,96715,UPI,26959.34
+10432,2021-03-07,Customer_186,Mumbai,Delhi NCR,Smartwatch,4,64767,Debit Card,67608.94
+10433,2021-03-08,Customer_63,Chennai,West Bengal,Headphones,1,8644,Debit Card,2036.29
+10434,2021-03-09,Customer_190,Kolkata,Maharashtra,Smartwatch,3,34933,Credit Card,9636.65
+10435,2021-03-10,Customer_125,Mumbai,Delhi NCR,Laptop,2,45469,UPI,7283.31
+10436,2021-03-11,Customer_150,Hyderabad,Tamil Nadu,Tablet,4,35687,Debit Card,9550.01
+10437,2021-03-12,Customer_58,Kolkata,Maharashtra,Mobile,1,54656,Credit Card,12625.93
+10438,2021-03-13,Customer_58,Bangalore,Maharashtra,Headphones,2,19375,Credit Card,10935.33
+10439,2021-03-14,Customer_86,Delhi,Tamil Nadu,Camera,1,67206,UPI,10593.95
+10440,2021-03-15,Customer_49,Hyderabad,Telangana,Smartwatch,2,98462,Cash on Delivery,15711.61
+10441,2021-03-16,Customer_180,Bangalore,Maharashtra,Camera,2,38607,Credit Card,13751.67
+10442,2021-03-17,Customer_170,Mumbai,Delhi NCR,Tablet,1,85178,Cash on Delivery,11687.1
+10443,2021-03-18,Customer_70,Chennai,West Bengal,Smartwatch,4,25993,Cash on Delivery,14941.42
+10444,2021-03-19,Customer_15,Kolkata,Maharashtra,Headphones,4,46386,Debit Card,38098.24
+10445,2021-03-20,Customer_54,Delhi,Delhi NCR,Laptop,3,48287,Cash on Delivery,33271.61
+10446,2021-03-21,Customer_188,Kolkata,Karnataka,Camera,2,88724,UPI,13779.0
+10447,2021-03-22,Customer_101,Mumbai,Delhi NCR,Tablet,3,95308,Debit Card,16840.23
+10448,2021-03-23,Customer_8,Kolkata,West Bengal,Headphones,3,98393,Debit Card,88135.31
+10449,2021-03-24,Customer_53,Delhi,Delhi NCR,Headphones,1,78312,Debit Card,8471.96
+10450,2021-03-25,Customer_60,Mumbai,Tamil Nadu,Headphones,1,77324,Credit Card,4906.8
+10451,2021-03-26,Customer_108,Kolkata,West Bengal,Headphones,1,73196,Credit Card,7134.33
+10452,2021-03-27,Customer_5,Chennai,Telangana,Smartwatch,2,72014,Cash on Delivery,8604.16
+10453,2021-03-28,Customer_103,Hyderabad,Karnataka,Headphones,1,10210,Debit Card,1510.6
+10454,2021-03-29,Customer_196,Mumbai,Tamil Nadu,Camera,1,12922,Debit Card,3238.26
+10455,2021-03-30,Customer_6,Hyderabad,Telangana,Tablet,2,38289,UPI,10361.85
+10456,2021-03-31,Customer_109,Mumbai,Delhi NCR,Smartwatch,2,35340,Cash on Delivery,11382.72
+10457,2021-04-01,Customer_116,Chennai,West Bengal,Headphones,4,41850,UPI,36643.31
+10458,2021-04-02,Customer_94,Hyderabad,Karnataka,Mobile,1,58984,Cash on Delivery,10453.35
+10459,2021-04-03,Customer_47,Bangalore,Tamil Nadu,Mobile,1,86178,Cash on Delivery,22868.32
+10460,2021-04-04,Customer_99,Delhi,Telangana,Tablet,1,13094,Credit Card,3489.67
+10461,2021-04-05,Customer_55,Bangalore,Telangana,Laptop,4,89959,Credit Card,18883.36
+10462,2021-04-06,Customer_168,Kolkata,Karnataka,Laptop,1,35418,UPI,8660.11
+10463,2021-04-07,Customer_52,Chennai,Delhi NCR,Smartwatch,4,7741,Cash on Delivery,5114.74
+10464,2021-04-08,Customer_144,Bangalore,Karnataka,Smartwatch,3,74374,Debit Card,66314.12
+10465,2021-04-09,Customer_13,Mumbai,Telangana,Smartwatch,4,70798,Credit Card,48371.46
+10466,2021-04-10,Customer_114,Kolkata,Maharashtra,Laptop,3,72532,Debit Card,64565.95
+10467,2021-04-11,Customer_124,Kolkata,Tamil Nadu,Mobile,1,24164,UPI,5766.55
+10468,2021-04-12,Customer_106,Bangalore,Karnataka,Laptop,3,37595,Credit Card,12648.98
+10469,2021-04-13,Customer_158,Bangalore,Telangana,Camera,4,32257,Credit Card,23818.41
+10470,2021-04-14,Customer_147,Chennai,Delhi NCR,Headphones,2,16211,Cash on Delivery,9662.86
+10471,2021-04-15,Customer_145,Delhi,Telangana,Smartwatch,3,97989,UPI,77719.78
+10472,2021-04-16,Customer_120,Bangalore,Delhi NCR,Mobile,3,7232,Cash on Delivery,1612.92
+10473,2021-04-17,Customer_63,Bangalore,Karnataka,Tablet,1,69753,Credit Card,15805.54
+10474,2021-04-18,Customer_19,Hyderabad,Delhi NCR,Tablet,4,54691,UPI,29838.29
+10475,2021-04-19,Customer_92,Mumbai,West Bengal,Headphones,3,91765,Credit Card,14245.3
+10476,2021-04-20,Customer_58,Hyderabad,West Bengal,Mobile,3,81768,UPI,37009.07
+10477,2021-04-21,Customer_183,Hyderabad,West Bengal,Laptop,3,27613,Credit Card,9003.66
+10478,2021-04-22,Customer_90,Kolkata,Maharashtra,Laptop,3,16026,Debit Card,12246.3
+10479,2021-04-23,Customer_117,Delhi,Karnataka,Camera,2,55535,Debit Card,14920.33
+10480,2021-04-24,Customer_62,Mumbai,Telangana,Camera,4,96090,Cash on Delivery,98734.75
+10481,2021-04-25,Customer_23,Chennai,Telangana,Laptop,1,32908,Debit Card,1650.32
+10482,2021-04-26,Customer_127,Chennai,Maharashtra,Tablet,1,54113,Credit Card,6869.9
+10483,2021-04-27,Customer_137,Bangalore,Delhi NCR,Smartwatch,2,21610,Credit Card,4766.79
+10484,2021-04-28,Customer_140,Bangalore,Maharashtra,Tablet,4,48646,Debit Card,21091.32
+10485,2021-04-29,Customer_129,Chennai,Delhi NCR,Camera,3,65185,Cash on Delivery,13111.31
+10486,2021-04-30,Customer_58,Bangalore,Delhi NCR,Headphones,2,74567,Debit Card,14433.35
+10487,2021-05-01,Customer_122,Delhi,Tamil Nadu,Laptop,4,49574,UPI,37455.61
+10488,2021-05-02,Customer_1,Hyderabad,Telangana,Camera,3,93051,UPI,34291.23
+10489,2021-05-03,Customer_34,Bangalore,West Bengal,Camera,2,38182,UPI,11786.68
+10490,2021-05-04,Customer_96,Kolkata,Delhi NCR,Smartwatch,4,2570,Debit Card,1482.55
+10491,2021-05-05,Customer_126,Bangalore,Tamil Nadu,Laptop,1,99790,Debit Card,26841.14
+10492,2021-05-06,Customer_118,Mumbai,Telangana,Smartwatch,1,21288,Debit Card,5882.4
+10493,2021-05-07,Customer_48,Delhi,West Bengal,Laptop,4,80824,UPI,56007.55
+10494,2021-05-08,Customer_89,Mumbai,Delhi NCR,Smartwatch,1,31877,Cash on Delivery,4224.95
+10495,2021-05-09,Customer_117,Mumbai,Delhi NCR,Tablet,4,86425,Credit Card,26515.25
+10496,2021-05-10,Customer_129,Kolkata,Maharashtra,Headphones,3,2917,Debit Card,2523.36
+10497,2021-05-11,Customer_16,Delhi,Maharashtra,Headphones,4,77602,Cash on Delivery,20194.13
+10498,2021-05-12,Customer_189,Delhi,Telangana,Laptop,3,97040,Credit Card,36218.99
+10499,2021-05-13,Customer_192,Delhi,West Bengal,Mobile,2,66575,Credit Card,16579.38
+10500,2021-05-14,Customer_191,Delhi,Delhi NCR,Camera,4,74518,Credit Card,38779.26
+10501,2021-05-15,Customer_69,Delhi,Telangana,Camera,2,41104,Cash on Delivery,7486.82
+10502,2021-05-16,Customer_22,Kolkata,Telangana,Laptop,1,20062,Cash on Delivery,4931.05
+10503,2021-05-17,Customer_93,Bangalore,Karnataka,Smartwatch,3,18999,UPI,4595.35
+10504,2021-05-18,Customer_195,Mumbai,Maharashtra,Mobile,4,63845,Cash on Delivery,53304.62
+10505,2021-05-19,Customer_76,Delhi,West Bengal,Tablet,2,11941,Cash on Delivery,1933.52
+10506,2021-05-20,Customer_154,Bangalore,Delhi NCR,Smartwatch,3,63169,Cash on Delivery,12817.1
+10507,2021-05-21,Customer_144,Bangalore,Telangana,Smartwatch,3,25470,Credit Card,21192.88
+10508,2021-05-22,Customer_179,Mumbai,Delhi NCR,Laptop,1,61821,Debit Card,6029.54
+10509,2021-05-23,Customer_86,Kolkata,Karnataka,Laptop,1,88669,UPI,22638.31
+10510,2021-05-24,Customer_185,Chennai,West Bengal,Camera,3,46435,Debit Card,25932.7
+10511,2021-05-25,Customer_29,Chennai,Telangana,Laptop,3,6529,Debit Card,1360.59
+10512,2021-05-26,Customer_69,Bangalore,Delhi NCR,Laptop,4,85055,Cash on Delivery,98276.65
+10513,2021-05-27,Customer_47,Hyderabad,Maharashtra,Laptop,3,14192,UPI,4757.45
+10514,2021-05-28,Customer_94,Hyderabad,Karnataka,Camera,4,76102,Debit Card,80641.13
+10515,2021-05-29,Customer_190,Mumbai,West Bengal,Tablet,3,74762,Debit Card,20679.73
+10516,2021-05-30,Customer_197,Chennai,Karnataka,Tablet,1,88795,UPI,23396.21
+10517,2021-05-31,Customer_144,Bangalore,Maharashtra,Laptop,4,36087,Cash on Delivery,7694.79
+10518,2021-06-01,Customer_176,Kolkata,West Bengal,Camera,2,68677,Debit Card,24441.47
+10519,2021-06-02,Customer_85,Chennai,Karnataka,Tablet,1,6627,Credit Card,1606.12
+10520,2021-06-03,Customer_39,Bangalore,Tamil Nadu,Smartwatch,4,58541,Debit Card,66432.06
+10521,2021-06-04,Customer_100,Bangalore,Maharashtra,Tablet,4,70226,Credit Card,77894.83
+10522,2021-06-05,Customer_33,Delhi,Maharashtra,Tablet,2,5255,Cash on Delivery,2679.06
+10523,2021-06-06,Customer_101,Kolkata,Maharashtra,Camera,4,59433,Debit Card,64674.48
+10524,2021-06-07,Customer_23,Delhi,Tamil Nadu,Smartwatch,3,7213,UPI,2159.68
+10525,2021-06-08,Customer_10,Mumbai,Tamil Nadu,Camera,2,21404,UPI,5181.74
+10526,2021-06-09,Customer_69,Delhi,Delhi NCR,Laptop,1,27380,Debit Card,3346.99
+10527,2021-06-10,Customer_100,Delhi,Telangana,Headphones,1,93056,Cash on Delivery,13424.58
+10528,2021-06-11,Customer_34,Chennai,Karnataka,Tablet,3,21173,Cash on Delivery,9421.78
+10529,2021-06-12,Customer_180,Hyderabad,Delhi NCR,Headphones,1,55027,UPI,10242.66
+10530,2021-06-13,Customer_138,Bangalore,Karnataka,Camera,4,25989,Debit Card,9352.92
+10531,2021-06-14,Customer_147,Kolkata,Telangana,Camera,4,26519,Cash on Delivery,23634.97
+10532,2021-06-15,Customer_186,Delhi,Tamil Nadu,Camera,3,24439,UPI,6737.22
+10533,2021-06-16,Customer_96,Kolkata,Telangana,Headphones,1,78949,Credit Card,10072.09
+10534,2021-06-17,Customer_1,Hyderabad,Tamil Nadu,Camera,1,16995,Debit Card,2988.34
+10535,2021-06-18,Customer_69,Hyderabad,Telangana,Laptop,3,25559,Credit Card,19101.02
+10536,2021-06-19,Customer_4,Delhi,Delhi NCR,Camera,2,91049,Credit Card,42768.87
+10537,2021-06-20,Customer_16,Mumbai,West Bengal,Mobile,1,7021,Cash on Delivery,1484.12
+10538,2021-06-21,Customer_24,Delhi,Delhi NCR,Headphones,2,23119,Cash on Delivery,4112.56
+10539,2021-06-22,Customer_80,Chennai,Karnataka,Mobile,1,53539,Cash on Delivery,9999.02
+10540,2021-06-23,Customer_2,Bangalore,Delhi NCR,Camera,1,96835,Debit Card,6958.72
+10541,2021-06-24,Customer_128,Mumbai,Maharashtra,Laptop,1,41350,Credit Card,5968.49
+10542,2021-06-25,Customer_160,Delhi,Karnataka,Tablet,1,48223,Debit Card,7396.4
+10543,2021-06-26,Customer_84,Kolkata,Telangana,Smartwatch,4,27517,Cash on Delivery,6598.89
+10544,2021-06-27,Customer_152,Mumbai,Karnataka,Smartwatch,2,80653,Credit Card,19114.28
+10545,2021-06-28,Customer_140,Mumbai,West Bengal,Camera,2,24250,Debit Card,14012.25
+10546,2021-06-29,Customer_178,Delhi,Tamil Nadu,Laptop,1,86486,Debit Card,24943.27
+10547,2021-06-30,Customer_163,Mumbai,Telangana,Headphones,1,84895,UPI,11722.45
+10548,2021-07-01,Customer_124,Kolkata,Karnataka,Mobile,2,91132,Debit Card,11077.1
+10549,2021-07-02,Customer_33,Hyderabad,Telangana,Mobile,4,93066,Cash on Delivery,35280.85
+10550,2021-07-03,Customer_161,Mumbai,Telangana,Mobile,3,68798,Debit Card,30557.55
+10551,2021-07-04,Customer_189,Hyderabad,Telangana,Headphones,3,56199,Credit Card,48378.05
+10552,2021-07-05,Customer_179,Kolkata,Tamil Nadu,Smartwatch,2,61546,Debit Card,10499.72
+10553,2021-07-06,Customer_171,Delhi,Delhi NCR,Laptop,1,90151,UPI,21715.48
+10554,2021-07-07,Customer_101,Bangalore,Telangana,Headphones,1,5327,Credit Card,411.09
+10555,2021-07-08,Customer_12,Mumbai,Maharashtra,Mobile,4,31768,Credit Card,37526.19
+10556,2021-07-09,Customer_67,Bangalore,West Bengal,Camera,3,66418,UPI,28972.35
+10557,2021-07-10,Customer_65,Kolkata,Tamil Nadu,Tablet,4,96386,Cash on Delivery,93998.96
+10558,2021-07-11,Customer_161,Mumbai,Karnataka,Headphones,3,44788,Credit Card,18226.18
+10559,2021-07-12,Customer_168,Hyderabad,Tamil Nadu,Headphones,2,84384,Cash on Delivery,34921.01
+10560,2021-07-13,Customer_74,Chennai,Karnataka,Laptop,3,48830,Credit Card,14356.61
+10561,2021-07-14,Customer_43,Bangalore,Tamil Nadu,Laptop,4,54446,Credit Card,18839.46
+10562,2021-07-15,Customer_44,Mumbai,Karnataka,Headphones,4,17160,Cash on Delivery,19529.18
+10563,2021-07-16,Customer_29,Bangalore,Telangana,Mobile,4,58583,Credit Card,65475.13
+10564,2021-07-17,Customer_141,Mumbai,Delhi NCR,Tablet,2,35998,Cash on Delivery,19573.35
+10565,2021-07-18,Customer_12,Delhi,Karnataka,Laptop,3,29230,UPI,18095.56
+10566,2021-07-19,Customer_95,Hyderabad,Karnataka,Mobile,3,11076,Cash on Delivery,8375.68
+10567,2021-07-20,Customer_46,Bangalore,Maharashtra,Camera,4,71341,UPI,19193.36
+10568,2021-07-21,Customer_130,Chennai,Karnataka,Laptop,3,33085,Credit Card,13270.12
+10569,2021-07-22,Customer_35,Chennai,Maharashtra,Mobile,1,57571,Cash on Delivery,7393.6
+10570,2021-07-23,Customer_81,Kolkata,West Bengal,Mobile,1,16715,Credit Card,3491.95
+10571,2021-07-24,Customer_90,Mumbai,Telangana,Tablet,1,7750,Cash on Delivery,1077.17
+10572,2021-07-25,Customer_8,Bangalore,Maharashtra,Tablet,3,80768,UPI,21111.15
+10573,2021-07-26,Customer_93,Kolkata,Delhi NCR,Camera,2,37903,UPI,15094.25
+10574,2021-07-27,Customer_154,Bangalore,Telangana,Mobile,2,74489,Cash on Delivery,37780.22
+10575,2021-07-28,Customer_90,Mumbai,Maharashtra,Smartwatch,2,34093,UPI,9923.17
+10576,2021-07-29,Customer_162,Chennai,Telangana,Mobile,2,93036,Credit Card,15456.48
+10577,2021-07-30,Customer_115,Delhi,Telangana,Tablet,1,89954,Credit Card,8920.92
+10578,2021-07-31,Customer_105,Chennai,Telangana,Smartwatch,1,36314,Debit Card,3971.69
+10579,2021-08-01,Customer_135,Kolkata,West Bengal,Laptop,4,50225,UPI,25107.36
+10580,2021-08-02,Customer_196,Hyderabad,Delhi NCR,Laptop,3,89985,Credit Card,56879.19
+10581,2021-08-03,Customer_58,Delhi,Tamil Nadu,Headphones,3,85014,Cash on Delivery,51068.68
+10582,2021-08-04,Customer_114,Kolkata,Tamil Nadu,Tablet,2,37179,UPI,16657.68
+10583,2021-08-05,Customer_75,Mumbai,Maharashtra,Headphones,1,27338,Credit Card,3844.42
+10584,2021-08-06,Customer_157,Delhi,Telangana,Smartwatch,2,94435,UPI,48350.61
+10585,2021-08-07,Customer_120,Kolkata,Maharashtra,Tablet,4,71681,Cash on Delivery,28965.41
+10586,2021-08-08,Customer_164,Mumbai,West Bengal,Camera,3,34101,Credit Card,17111.22
+10587,2021-08-09,Customer_21,Chennai,West Bengal,Mobile,3,4775,Debit Card,3584.61
+10588,2021-08-10,Customer_164,Hyderabad,Karnataka,Camera,2,99183,Debit Card,18852.64
+10589,2021-08-11,Customer_138,Mumbai,West Bengal,Smartwatch,4,47619,UPI,14755.37
+10590,2021-08-12,Customer_101,Bangalore,Karnataka,Tablet,3,47838,Cash on Delivery,38880.96
+10591,2021-08-13,Customer_152,Mumbai,Delhi NCR,Smartwatch,4,21539,Credit Card,11694.16
+10592,2021-08-14,Customer_192,Mumbai,Maharashtra,Mobile,4,59124,Cash on Delivery,52257.94
+10593,2021-08-15,Customer_177,Hyderabad,Delhi NCR,Laptop,2,67149,Credit Card,7565.97
+10594,2021-08-16,Customer_99,Bangalore,West Bengal,Laptop,1,28616,UPI,6367.4
+10595,2021-08-17,Customer_36,Kolkata,Delhi NCR,Smartwatch,2,81655,Credit Card,21071.13
+10596,2021-08-18,Customer_96,Kolkata,Delhi NCR,Headphones,1,92695,Cash on Delivery,5926.47
+10597,2021-08-19,Customer_152,Mumbai,Delhi NCR,Tablet,4,56567,Cash on Delivery,45808.68
+10598,2021-08-20,Customer_151,Bangalore,West Bengal,Tablet,1,39099,UPI,4308.75
+10599,2021-08-21,Customer_190,Bangalore,Telangana,Laptop,4,77831,Cash on Delivery,45671.79
+10600,2021-08-22,Customer_37,Hyderabad,Delhi NCR,Camera,3,63799,Credit Card,13425.58
+10601,2021-08-23,Customer_12,Chennai,Karnataka,Mobile,3,92221,UPI,24011.81
+10602,2021-08-24,Customer_113,Kolkata,West Bengal,Camera,3,27479,Credit Card,10262.94
+10603,2021-08-25,Customer_183,Hyderabad,Delhi NCR,Camera,2,48172,Cash on Delivery,6979.15
+10604,2021-08-26,Customer_13,Delhi,Telangana,Smartwatch,2,57863,UPI,32137.87
+10605,2021-08-27,Customer_23,Kolkata,West Bengal,Laptop,4,44043,Credit Card,9074.93
+10606,2021-08-28,Customer_99,Hyderabad,Tamil Nadu,Laptop,3,84569,Cash on Delivery,43375.03
+10607,2021-08-29,Customer_105,Kolkata,Telangana,Laptop,2,17408,Cash on Delivery,2813.55
+10608,2021-08-30,Customer_30,Chennai,Karnataka,Smartwatch,3,59980,Debit Card,22837.94
+10609,2021-08-31,Customer_17,Delhi,Delhi NCR,Headphones,2,84956,Cash on Delivery,47832.76
+10610,2021-09-01,Customer_113,Chennai,Tamil Nadu,Camera,1,18351,Credit Card,1659.36
+10611,2021-09-02,Customer_62,Delhi,Tamil Nadu,Smartwatch,1,6131,UPI,1786.93
+10612,2021-09-03,Customer_84,Mumbai,West Bengal,Tablet,3,46825,Debit Card,14250.99
+10613,2021-09-04,Customer_112,Hyderabad,Tamil Nadu,Mobile,4,13349,Cash on Delivery,12568.97
+10614,2021-09-05,Customer_86,Delhi,Karnataka,Headphones,2,62931,Cash on Delivery,23494.57
+10615,2021-09-06,Customer_141,Chennai,Karnataka,Tablet,2,46254,Cash on Delivery,25080.74
+10616,2021-09-07,Customer_187,Kolkata,Maharashtra,Camera,1,40225,Credit Card,7582.34
+10617,2021-09-08,Customer_19,Delhi,Karnataka,Laptop,1,14453,Debit Card,2654.15
+10618,2021-09-09,Customer_177,Hyderabad,Telangana,Camera,4,20814,Credit Card,8231.06
+10619,2021-09-10,Customer_100,Delhi,Tamil Nadu,Smartwatch,4,20263,Debit Card,7420.91
+10620,2021-09-11,Customer_140,Bangalore,Karnataka,Mobile,4,79694,UPI,88977.49
+10621,2021-09-12,Customer_189,Kolkata,West Bengal,Smartwatch,3,17735,Credit Card,7020.91
+10622,2021-09-13,Customer_147,Hyderabad,Maharashtra,Headphones,1,17830,Credit Card,2550.06
+10623,2021-09-14,Customer_76,Hyderabad,Tamil Nadu,Headphones,3,49893,UPI,35916.36
+10624,2021-09-15,Customer_9,Mumbai,Maharashtra,Mobile,1,46673,Debit Card,6287.13
+10625,2021-09-16,Customer_199,Chennai,Tamil Nadu,Tablet,1,91462,Cash on Delivery,26342.48
+10626,2021-09-17,Customer_28,Mumbai,West Bengal,Tablet,2,47066,UPI,22072.25
+10627,2021-09-18,Customer_128,Hyderabad,Maharashtra,Headphones,1,5373,Cash on Delivery,1071.15
+10628,2021-09-19,Customer_52,Kolkata,Delhi NCR,Headphones,1,12335,Cash on Delivery,3333.21
+10629,2021-09-20,Customer_83,Delhi,Telangana,Laptop,3,25741,UPI,4818.83
+10630,2021-09-21,Customer_111,Delhi,Telangana,Tablet,1,12692,Debit Card,1450.26
+10631,2021-09-22,Customer_144,Kolkata,Tamil Nadu,Mobile,3,49295,Cash on Delivery,24587.22
+10632,2021-09-23,Customer_117,Hyderabad,Delhi NCR,Tablet,4,47541,UPI,20298.99
+10633,2021-09-24,Customer_69,Delhi,Maharashtra,Laptop,1,36057,Credit Card,8508.6
+10634,2021-09-25,Customer_99,Delhi,Delhi NCR,Smartwatch,1,68983,Credit Card,19301.58
+10635,2021-09-26,Customer_140,Delhi,Delhi NCR,Headphones,3,21583,Credit Card,10097.12
+10636,2021-09-27,Customer_25,Chennai,Maharashtra,Headphones,4,24765,UPI,13425.91
+10637,2021-09-28,Customer_180,Chennai,West Bengal,Laptop,2,61287,Credit Card,35593.98
+10638,2021-09-29,Customer_123,Bangalore,Delhi NCR,Mobile,4,25906,Cash on Delivery,16705.55
+10639,2021-09-30,Customer_53,Mumbai,Delhi NCR,Headphones,3,87103,Credit Card,45013.64
+10640,2021-10-01,Customer_151,Kolkata,West Bengal,Camera,4,81675,Credit Card,45056.0
+10641,2021-10-02,Customer_144,Kolkata,Delhi NCR,Headphones,3,48525,Cash on Delivery,40380.63
+10642,2021-10-03,Customer_57,Kolkata,Delhi NCR,Camera,3,40230,Credit Card,23201.31
+10643,2021-10-04,Customer_39,Bangalore,Delhi NCR,Laptop,2,21520,Cash on Delivery,10353.0
+10644,2021-10-05,Customer_109,Chennai,Telangana,Laptop,1,87238,Credit Card,22067.0
+10645,2021-10-06,Customer_181,Hyderabad,Karnataka,Headphones,3,53934,Cash on Delivery,21918.06
+10646,2021-10-07,Customer_42,Hyderabad,West Bengal,Tablet,3,27566,Credit Card,13101.31
+10647,2021-10-08,Customer_186,Bangalore,Delhi NCR,Camera,2,75193,Cash on Delivery,39418.87
+10648,2021-10-09,Customer_167,Hyderabad,Telangana,Mobile,3,32134,UPI,13574.74
+10649,2021-10-10,Customer_142,Kolkata,West Bengal,Headphones,1,12345,Cash on Delivery,3067.53
+10650,2021-10-11,Customer_122,Mumbai,Tamil Nadu,Mobile,2,43185,Credit Card,24636.88
+10651,2021-10-12,Customer_133,Delhi,Tamil Nadu,Headphones,1,94949,Credit Card,19540.75
+10652,2021-10-13,Customer_163,Chennai,Delhi NCR,Tablet,1,72744,Debit Card,17124.43
+10653,2021-10-14,Customer_75,Chennai,Telangana,Tablet,2,35455,Cash on Delivery,17817.86
+10654,2021-10-15,Customer_146,Bangalore,Telangana,Tablet,3,30018,UPI,23527.5
+10655,2021-10-16,Customer_76,Chennai,West Bengal,Smartwatch,1,56219,Cash on Delivery,8363.33
+10656,2021-10-17,Customer_9,Kolkata,West Bengal,Tablet,1,47991,Cash on Delivery,3014.6
+10657,2021-10-18,Customer_74,Hyderabad,Telangana,Laptop,1,75616,UPI,11377.87
+10658,2021-10-19,Customer_186,Kolkata,West Bengal,Laptop,1,89438,Cash on Delivery,19536.75
+10659,2021-10-20,Customer_145,Bangalore,Telangana,Smartwatch,2,11486,UPI,3734.96
+10660,2021-10-21,Customer_7,Kolkata,Karnataka,Camera,2,40862,UPI,19388.27
+10661,2021-10-22,Customer_174,Hyderabad,Telangana,Mobile,4,60870,Cash on Delivery,33903.52
+10662,2021-10-23,Customer_141,Mumbai,Tamil Nadu,Headphones,4,88694,Cash on Delivery,74036.8
+10663,2021-10-24,Customer_168,Bangalore,West Bengal,Headphones,1,45856,Credit Card,4429.92
+10664,2021-10-25,Customer_170,Mumbai,Telangana,Smartwatch,3,88055,Credit Card,62697.54
+10665,2021-10-26,Customer_137,Delhi,Telangana,Laptop,1,33379,Debit Card,6222.65
+10666,2021-10-27,Customer_178,Mumbai,West Bengal,Headphones,3,66729,Debit Card,20222.11
+10667,2021-10-28,Customer_27,Delhi,Karnataka,Laptop,1,30378,Cash on Delivery,3735.82
+10668,2021-10-29,Customer_122,Delhi,Karnataka,Camera,4,56353,UPI,53456.95
+10669,2021-10-30,Customer_194,Mumbai,West Bengal,Mobile,4,51996,Debit Card,35492.53
+10670,2021-10-31,Customer_5,Bangalore,Maharashtra,Camera,3,16031,Cash on Delivery,5002.05
+10671,2021-11-01,Customer_29,Hyderabad,West Bengal,Smartwatch,1,82072,Debit Card,23950.07
+10672,2021-11-02,Customer_165,Kolkata,West Bengal,Tablet,3,67982,UPI,46659.02
+10673,2021-11-03,Customer_166,Kolkata,Karnataka,Tablet,4,38683,Cash on Delivery,44761.45
+10674,2021-11-04,Customer_83,Hyderabad,Karnataka,Tablet,1,19618,UPI,3075.64
+10675,2021-11-05,Customer_136,Delhi,West Bengal,Camera,1,8587,Cash on Delivery,1449.27
+10676,2021-11-06,Customer_109,Delhi,West Bengal,Headphones,3,64790,Debit Card,53352.39
+10677,2021-11-07,Customer_65,Bangalore,West Bengal,Mobile,2,33480,Credit Card,12137.33
+10678,2021-11-08,Customer_86,Chennai,Karnataka,Tablet,3,22527,Debit Card,15328.7
+10679,2021-11-09,Customer_145,Mumbai,West Bengal,Smartwatch,4,25569,Debit Card,11561.61
+10680,2021-11-10,Customer_71,Delhi,West Bengal,Smartwatch,4,13151,Credit Card,8505.1
+10681,2021-11-11,Customer_45,Kolkata,Delhi NCR,Tablet,4,73094,Credit Card,23642.24
+10682,2021-11-12,Customer_132,Bangalore,Maharashtra,Tablet,4,61174,Cash on Delivery,24835.42
+10683,2021-11-13,Customer_36,Mumbai,Tamil Nadu,Mobile,4,46739,Cash on Delivery,9391.89
+10684,2021-11-14,Customer_70,Bangalore,Maharashtra,Tablet,2,34954,UPI,4181.64
+10685,2021-11-15,Customer_159,Mumbai,Delhi NCR,Mobile,1,37303,UPI,10979.05
+10686,2021-11-16,Customer_19,Mumbai,Tamil Nadu,Smartwatch,3,36700,Debit Card,12175.79
+10687,2021-11-17,Customer_189,Hyderabad,West Bengal,Tablet,3,95036,Credit Card,61534.2
+10688,2021-11-18,Customer_108,Delhi,Delhi NCR,Camera,4,69568,UPI,72288.09
+10689,2021-11-19,Customer_182,Bangalore,West Bengal,Camera,3,68788,Debit Card,38727.32
+10690,2021-11-20,Customer_167,Bangalore,Karnataka,Smartwatch,4,73045,Credit Card,25795.44
+10691,2021-11-21,Customer_91,Hyderabad,Telangana,Mobile,2,39842,Cash on Delivery,18489.01
+10692,2021-11-22,Customer_90,Kolkata,Delhi NCR,Camera,2,15900,Debit Card,6362.0
+10693,2021-11-23,Customer_19,Kolkata,Karnataka,Mobile,1,82059,Cash on Delivery,19104.37
+10694,2021-11-24,Customer_39,Delhi,Delhi NCR,Camera,2,3881,UPI,1881.79
+10695,2021-11-25,Customer_126,Delhi,Delhi NCR,Camera,2,35037,UPI,20591.43
+10696,2021-11-26,Customer_195,Chennai,Karnataka,Mobile,1,3630,Credit Card,702.01
+10697,2021-11-27,Customer_173,Hyderabad,Tamil Nadu,Headphones,3,22789,Debit Card,9257.59
+10698,2021-11-28,Customer_141,Kolkata,Maharashtra,Camera,4,90059,Cash on Delivery,76411.87
+10699,2021-11-29,Customer_126,Mumbai,West Bengal,Tablet,4,85494,Credit Card,22950.07
+10700,2021-11-30,Customer_58,Bangalore,Delhi NCR,Smartwatch,3,48151,UPI,39630.58
+10701,2021-12-01,Customer_148,Delhi,West Bengal,Headphones,1,50920,UPI,4065.72
+10702,2021-12-02,Customer_61,Bangalore,Telangana,Mobile,3,69231,Debit Card,27407.32
+10703,2021-12-03,Customer_127,Bangalore,Karnataka,Headphones,2,82357,Cash on Delivery,41826.87
+10704,2021-12-04,Customer_105,Chennai,West Bengal,Laptop,1,5262,Debit Card,1048.86
+10705,2021-12-05,Customer_167,Kolkata,Karnataka,Laptop,1,68981,Cash on Delivery,10237.39
+10706,2021-12-06,Customer_1,Delhi,West Bengal,Camera,1,83972,Cash on Delivery,14137.43
+10707,2021-12-07,Customer_131,Bangalore,Maharashtra,Camera,4,77485,Debit Card,81711.6
+10708,2021-12-08,Customer_92,Delhi,Maharashtra,Tablet,3,56722,Credit Card,22972.6
+10709,2021-12-09,Customer_190,Mumbai,Maharashtra,Smartwatch,1,91499,Debit Card,24467.97
+10710,2021-12-10,Customer_191,Chennai,Maharashtra,Headphones,1,52818,Debit Card,3804.67
+10711,2021-12-11,Customer_113,Mumbai,Maharashtra,Laptop,1,31932,UPI,7797.78
+10712,2021-12-12,Customer_153,Delhi,Maharashtra,Camera,3,8901,UPI,6993.17
+10713,2021-12-13,Customer_56,Delhi,Karnataka,Smartwatch,4,10597,Debit Card,4046.12
+10714,2021-12-14,Customer_161,Kolkata,Delhi NCR,Headphones,2,65909,Debit Card,20772.75
+10715,2021-12-15,Customer_166,Bangalore,West Bengal,Camera,4,74391,UPI,27189.89
+10716,2021-12-16,Customer_117,Bangalore,Maharashtra,Camera,1,86214,Cash on Delivery,19540.49
+10717,2021-12-17,Customer_134,Mumbai,Karnataka,Laptop,4,10263,Debit Card,7546.87
+10718,2021-12-18,Customer_58,Chennai,Karnataka,Laptop,4,65293,Credit Card,54540.77
+10719,2021-12-19,Customer_44,Hyderabad,Karnataka,Camera,2,27805,Credit Card,5512.16
+10720,2021-12-20,Customer_173,Bangalore,Delhi NCR,Mobile,3,93679,Credit Card,28928.96
+10721,2021-12-21,Customer_160,Kolkata,West Bengal,Camera,3,13874,Debit Card,2512.9
+10722,2021-12-22,Customer_173,Mumbai,Delhi NCR,Smartwatch,4,95065,Cash on Delivery,49630.35
+10723,2021-12-23,Customer_61,Mumbai,Tamil Nadu,Camera,4,88402,Cash on Delivery,67162.95
+10724,2021-12-24,Customer_47,Hyderabad,Karnataka,Tablet,3,16079,UPI,12757.9
+10725,2021-12-25,Customer_149,Kolkata,Tamil Nadu,Tablet,3,51850,Debit Card,33712.64
+10726,2021-12-26,Customer_80,Chennai,Telangana,Tablet,2,74779,Cash on Delivery,23757.15
+10727,2021-12-27,Customer_118,Kolkata,Maharashtra,Mobile,1,97408,Debit Card,28080.78
+10728,2021-12-28,Customer_164,Chennai,Maharashtra,Mobile,4,11018,UPI,10128.24
+10729,2021-12-29,Customer_147,Kolkata,Delhi NCR,Camera,3,51500,UPI,43652.63
+10730,2021-12-30,Customer_20,Kolkata,West Bengal,Tablet,4,14100,UPI,10258.99
+10731,2021-12-31,Customer_185,Delhi,Tamil Nadu,Mobile,4,59021,Credit Card,27084.99
+10732,2022-01-01,Customer_146,Mumbai,West Bengal,Laptop,3,21800,Debit Card,4133.72
+10733,2022-01-02,Customer_47,Kolkata,Delhi NCR,Camera,2,65400,UPI,30282.97
+10734,2022-01-03,Customer_49,Hyderabad,Maharashtra,Smartwatch,4,94446,Debit Card,30345.78
+10735,2022-01-04,Customer_14,Kolkata,West Bengal,Headphones,2,31437,Credit Card,7902.87
+10736,2022-01-05,Customer_143,Bangalore,West Bengal,Camera,3,78537,Credit Card,43144.55
+10737,2022-01-06,Customer_159,Mumbai,Maharashtra,Headphones,1,48675,UPI,9301.99
+10738,2022-01-07,Customer_1,Bangalore,Tamil Nadu,Tablet,1,21942,UPI,4391.6
+10739,2022-01-08,Customer_117,Mumbai,Maharashtra,Headphones,4,22862,Cash on Delivery,8373.33
+10740,2022-01-09,Customer_54,Bangalore,West Bengal,Tablet,3,13669,Debit Card,5943.32
+10741,2022-01-10,Customer_118,Kolkata,Tamil Nadu,Laptop,2,55772,UPI,22788.28
+10742,2022-01-11,Customer_3,Kolkata,Tamil Nadu,Headphones,4,17916,Cash on Delivery,20958.47
+10743,2022-01-12,Customer_144,Delhi,Maharashtra,Camera,3,12878,Debit Card,8959.53
+10744,2022-01-13,Customer_185,Hyderabad,West Bengal,Tablet,3,4985,UPI,4197.13
+10745,2022-01-14,Customer_12,Bangalore,Delhi NCR,Camera,2,99905,Cash on Delivery,48064.9
+10746,2022-01-15,Customer_74,Chennai,West Bengal,Mobile,4,75648,Cash on Delivery,59891.81
+10747,2022-01-16,Customer_16,Delhi,Karnataka,Tablet,3,43235,Debit Card,12711.85
+10748,2022-01-17,Customer_102,Bangalore,Telangana,Headphones,3,20931,Cash on Delivery,13605.45
+10749,2022-01-18,Customer_152,Bangalore,Delhi NCR,Tablet,3,94876,Debit Card,58589.22
+10750,2022-01-19,Customer_156,Delhi,Tamil Nadu,Camera,2,2336,Debit Card,937.28
+10751,2022-01-20,Customer_117,Kolkata,Delhi NCR,Laptop,4,44933,Debit Card,30994.15
+10752,2022-01-21,Customer_8,Bangalore,Tamil Nadu,Tablet,4,86899,Credit Card,63319.53
+10753,2022-01-22,Customer_122,Kolkata,Tamil Nadu,Headphones,4,47536,Cash on Delivery,25405.26
+10754,2022-01-23,Customer_92,Delhi,Delhi NCR,Mobile,4,71504,Debit Card,51433.73
+10755,2022-01-24,Customer_164,Kolkata,Tamil Nadu,Smartwatch,1,53148,UPI,5282.33
+10756,2022-01-25,Customer_90,Mumbai,Tamil Nadu,Laptop,1,18279,Credit Card,4593.4
+10757,2022-01-26,Customer_136,Chennai,Karnataka,Mobile,4,70665,Credit Card,27260.93
+10758,2022-01-27,Customer_186,Bangalore,West Bengal,Tablet,2,73386,Cash on Delivery,10456.27
+10759,2022-01-28,Customer_60,Hyderabad,West Bengal,Camera,1,88124,Debit Card,14017.14
+10760,2022-01-29,Customer_178,Chennai,Telangana,Camera,3,79485,Cash on Delivery,51166.93
+10761,2022-01-30,Customer_28,Kolkata,Telangana,Headphones,1,76055,Credit Card,12125.39
+10762,2022-01-31,Customer_101,Bangalore,Karnataka,Camera,3,93911,Debit Card,33579.34
+10763,2022-02-01,Customer_41,Kolkata,Telangana,Laptop,4,79273,UPI,60102.5
+10764,2022-02-02,Customer_192,Mumbai,Delhi NCR,Camera,1,68670,Debit Card,9390.66
+10765,2022-02-03,Customer_155,Delhi,Maharashtra,Headphones,2,78474,Credit Card,44450.33
+10766,2022-02-04,Customer_191,Bangalore,Maharashtra,Smartwatch,1,56028,UPI,15724.89
+10767,2022-02-05,Customer_145,Mumbai,Maharashtra,Tablet,1,92022,Debit Card,16158.41
+10768,2022-02-06,Customer_161,Mumbai,Karnataka,Tablet,1,93632,UPI,12356.71
+10769,2022-02-07,Customer_157,Bangalore,Karnataka,Camera,4,73128,UPI,68530.62
+10770,2022-02-08,Customer_141,Kolkata,Tamil Nadu,Mobile,2,20108,Credit Card,2379.91
+10771,2022-02-09,Customer_46,Hyderabad,Maharashtra,Tablet,1,54495,UPI,9192.88
+10772,2022-02-10,Customer_35,Mumbai,Delhi NCR,Smartwatch,2,84806,Cash on Delivery,22741.72
+10773,2022-02-11,Customer_134,Chennai,Telangana,Camera,4,95185,Credit Card,106658.21
+10774,2022-02-12,Customer_82,Mumbai,Delhi NCR,Headphones,3,78533,Cash on Delivery,12486.93
+10775,2022-02-13,Customer_115,Hyderabad,Telangana,Smartwatch,1,58830,UPI,11072.02
+10776,2022-02-14,Customer_197,Kolkata,Maharashtra,Camera,2,76640,Cash on Delivery,36046.23
+10777,2022-02-15,Customer_47,Kolkata,Maharashtra,Smartwatch,2,54509,Debit Card,18669.82
+10778,2022-02-16,Customer_153,Chennai,Maharashtra,Tablet,4,68406,UPI,19523.28
+10779,2022-02-17,Customer_194,Mumbai,Karnataka,Headphones,1,96220,Debit Card,28203.56
+10780,2022-02-18,Customer_10,Kolkata,Telangana,Camera,3,41519,Cash on Delivery,22358.31
+10781,2022-02-19,Customer_56,Hyderabad,Karnataka,Laptop,2,51649,Debit Card,21025.95
+10782,2022-02-20,Customer_30,Bangalore,Karnataka,Headphones,1,36524,UPI,3986.68
+10783,2022-02-21,Customer_109,Delhi,West Bengal,Laptop,3,98493,Debit Card,50489.83
+10784,2022-02-22,Customer_5,Delhi,Delhi NCR,Smartwatch,2,35885,Cash on Delivery,11288.51
+10785,2022-02-23,Customer_119,Delhi,Delhi NCR,Mobile,2,46369,Cash on Delivery,6373.32
+10786,2022-02-24,Customer_33,Mumbai,Tamil Nadu,Headphones,3,97402,Cash on Delivery,22365.47
+10787,2022-02-25,Customer_118,Chennai,Karnataka,Smartwatch,3,32676,UPI,25425.34
+10788,2022-02-26,Customer_65,Kolkata,Telangana,Laptop,4,66093,Cash on Delivery,29069.02
+10789,2022-02-27,Customer_146,Bangalore,West Bengal,Tablet,1,49764,UPI,4913.68
+10790,2022-02-28,Customer_177,Hyderabad,West Bengal,Tablet,1,52799,Debit Card,9304.65
+10791,2022-03-01,Customer_11,Bangalore,Delhi NCR,Mobile,4,81414,Cash on Delivery,78869.58
+10792,2022-03-02,Customer_85,Hyderabad,Karnataka,Headphones,2,95095,Debit Card,12454.9
+10793,2022-03-03,Customer_26,Mumbai,Tamil Nadu,Headphones,3,74307,Credit Card,43291.7
+10794,2022-03-04,Customer_63,Delhi,Karnataka,Headphones,3,84062,Debit Card,20125.1
+10795,2022-03-05,Customer_86,Mumbai,Maharashtra,Smartwatch,3,97432,Credit Card,17279.15
+10796,2022-03-06,Customer_59,Chennai,Karnataka,Mobile,2,33923,Debit Card,4286.92
+10797,2022-03-07,Customer_27,Chennai,Maharashtra,Headphones,3,80388,UPI,62350.79
+10798,2022-03-08,Customer_177,Hyderabad,Maharashtra,Smartwatch,3,49574,Debit Card,11822.38
+10799,2022-03-09,Customer_161,Kolkata,Tamil Nadu,Tablet,4,45391,UPI,11127.67
+10800,2022-03-10,Customer_98,Kolkata,Telangana,Laptop,2,55664,UPI,17754.03
+10801,2022-03-11,Customer_105,Hyderabad,Delhi NCR,Smartwatch,1,69384,Cash on Delivery,18109.11
+10802,2022-03-12,Customer_99,Chennai,Karnataka,Tablet,4,33027,UPI,15271.96
+10803,2022-03-13,Customer_129,Chennai,Maharashtra,Tablet,4,37464,Credit Card,23291.84
+10804,2022-03-14,Customer_149,Chennai,Karnataka,Laptop,1,36485,Cash on Delivery,2188.39
+10805,2022-03-15,Customer_55,Mumbai,Telangana,Tablet,4,21456,Cash on Delivery,13926.63
+10806,2022-03-16,Customer_6,Chennai,Delhi NCR,Mobile,2,76795,Debit Card,29858.4
+10807,2022-03-17,Customer_197,Bangalore,Telangana,Laptop,3,37554,UPI,21712.98
+10808,2022-03-18,Customer_95,Delhi,Delhi NCR,Tablet,2,48922,UPI,13023.69
+10809,2022-03-19,Customer_133,Chennai,West Bengal,Camera,1,15409,Credit Card,1985.96
+10810,2022-03-20,Customer_102,Hyderabad,Delhi NCR,Smartwatch,1,71327,Debit Card,5467.64
+10811,2022-03-21,Customer_3,Delhi,Tamil Nadu,Tablet,4,93400,Debit Card,52938.96
+10812,2022-03-22,Customer_181,Mumbai,Telangana,Mobile,2,38639,Cash on Delivery,5786.09
+10813,2022-03-23,Customer_23,Hyderabad,Maharashtra,Headphones,2,65627,Cash on Delivery,31717.4
+10814,2022-03-24,Customer_53,Delhi,West Bengal,Tablet,1,85424,Cash on Delivery,24906.95
+10815,2022-03-25,Customer_165,Hyderabad,Tamil Nadu,Headphones,2,21692,Credit Card,12690.63
+10816,2022-03-26,Customer_83,Mumbai,Karnataka,Camera,1,91037,Credit Card,24240.22
+10817,2022-03-27,Customer_145,Bangalore,Telangana,Tablet,2,80840,Cash on Delivery,32368.02
+10818,2022-03-28,Customer_85,Mumbai,Maharashtra,Laptop,2,56200,Debit Card,25314.33
+10819,2022-03-29,Customer_78,Mumbai,Delhi NCR,Headphones,2,95063,Credit Card,23062.56
+10820,2022-03-30,Customer_110,Hyderabad,Maharashtra,Camera,1,59415,Debit Card,12340.06
+10821,2022-03-31,Customer_1,Kolkata,Karnataka,Laptop,4,20074,Debit Card,13161.51
+10822,2022-04-01,Customer_51,Chennai,West Bengal,Laptop,2,17549,UPI,5984.36
+10823,2022-04-02,Customer_173,Chennai,West Bengal,Laptop,1,31963,Cash on Delivery,7653.35
+10824,2022-04-03,Customer_4,Bangalore,Telangana,Laptop,1,93456,UPI,11259.54
+10825,2022-04-04,Customer_190,Bangalore,West Bengal,Tablet,2,98362,Cash on Delivery,25477.71
+10826,2022-04-05,Customer_193,Chennai,Telangana,Smartwatch,2,54265,Cash on Delivery,30514.34
+10827,2022-04-06,Customer_113,Kolkata,Telangana,Tablet,4,18061,Debit Card,4627.67
+10828,2022-04-07,Customer_32,Chennai,Telangana,Tablet,1,60226,Cash on Delivery,10323.25
+10829,2022-04-08,Customer_34,Kolkata,Delhi NCR,Camera,1,30810,Debit Card,8571.35
+10830,2022-04-09,Customer_92,Bangalore,Tamil Nadu,Camera,3,62006,Debit Card,37685.53
+10831,2022-04-10,Customer_95,Delhi,Telangana,Smartwatch,1,24800,Cash on Delivery,4627.72
+10832,2022-04-11,Customer_72,Hyderabad,Telangana,Camera,4,77476,Debit Card,34844.38
+10833,2022-04-12,Customer_39,Bangalore,Tamil Nadu,Mobile,3,71460,Debit Card,29116.85
+10834,2022-04-13,Customer_154,Bangalore,Maharashtra,Smartwatch,3,59767,Debit Card,47158.33
+10835,2022-04-14,Customer_162,Mumbai,Telangana,Camera,3,30054,Credit Card,17113.16
+10836,2022-04-15,Customer_182,Mumbai,Delhi NCR,Smartwatch,2,77319,Debit Card,27631.58
+10837,2022-04-16,Customer_118,Mumbai,West Bengal,Tablet,2,47397,Credit Card,7099.59
+10838,2022-04-17,Customer_3,Hyderabad,West Bengal,Tablet,1,15233,Credit Card,822.69
+10839,2022-04-18,Customer_123,Mumbai,Karnataka,Smartwatch,3,92020,Debit Card,80311.73
+10840,2022-04-19,Customer_50,Kolkata,Karnataka,Mobile,4,27068,Debit Card,15617.86
+10841,2022-04-20,Customer_12,Chennai,West Bengal,Mobile,2,67727,Credit Card,27199.61
+10842,2022-04-21,Customer_193,Delhi,West Bengal,Smartwatch,4,92610,Credit Card,25904.41
+10843,2022-04-22,Customer_54,Bangalore,Delhi NCR,Camera,4,72453,Debit Card,63984.28
+10844,2022-04-23,Customer_133,Kolkata,Tamil Nadu,Headphones,2,27832,Debit Card,15760.8
+10845,2022-04-24,Customer_57,Delhi,Karnataka,Mobile,2,88242,Cash on Delivery,34223.13
+10846,2022-04-25,Customer_145,Kolkata,Tamil Nadu,Laptop,2,15682,Credit Card,2557.07
+10847,2022-04-26,Customer_112,Kolkata,Delhi NCR,Tablet,2,94298,Credit Card,36857.39
+10848,2022-04-27,Customer_47,Bangalore,West Bengal,Smartwatch,3,25383,Cash on Delivery,18396.59
+10849,2022-04-28,Customer_151,Chennai,Telangana,Laptop,3,60160,Credit Card,27361.51
+10850,2022-04-29,Customer_85,Mumbai,Tamil Nadu,Smartwatch,3,95332,UPI,77207.32
+10851,2022-04-30,Customer_142,Hyderabad,West Bengal,Tablet,3,25666,Credit Card,16336.72
+10852,2022-05-01,Customer_66,Chennai,West Bengal,Tablet,1,60817,Cash on Delivery,16713.26
+10853,2022-05-02,Customer_75,Hyderabad,Maharashtra,Mobile,3,93198,UPI,57561.79
+10854,2022-05-03,Customer_179,Bangalore,Tamil Nadu,Mobile,2,36642,Debit Card,6069.53
+10855,2022-05-04,Customer_103,Bangalore,Telangana,Laptop,4,43830,Cash on Delivery,22339.79
+10856,2022-05-05,Customer_166,Bangalore,Tamil Nadu,Smartwatch,3,12234,Cash on Delivery,3686.67
+10857,2022-05-06,Customer_192,Delhi,West Bengal,Tablet,1,59616,Debit Card,16525.95
+10858,2022-05-07,Customer_38,Hyderabad,Telangana,Laptop,2,11221,Cash on Delivery,5388.32
+10859,2022-05-08,Customer_50,Chennai,Delhi NCR,Headphones,4,13410,Credit Card,11752.5
+10860,2022-05-09,Customer_98,Chennai,Maharashtra,Laptop,4,82055,Debit Card,41106.79
+10861,2022-05-10,Customer_82,Kolkata,West Bengal,Camera,3,63413,Cash on Delivery,18265.07
+10862,2022-05-11,Customer_30,Kolkata,Karnataka,Laptop,4,3051,Debit Card,2918.13
+10863,2022-05-12,Customer_79,Kolkata,Karnataka,Camera,3,77301,Debit Card,39084.81
+10864,2022-05-13,Customer_91,Bangalore,Maharashtra,Camera,3,78918,Debit Card,25201.84
+10865,2022-05-14,Customer_179,Chennai,Delhi NCR,Camera,2,80116,UPI,32712.24
+10866,2022-05-15,Customer_191,Hyderabad,West Bengal,Headphones,2,58563,Cash on Delivery,7037.34
+10867,2022-05-16,Customer_52,Bangalore,Tamil Nadu,Laptop,1,99859,UPI,13135.71
+10868,2022-05-17,Customer_166,Delhi,Maharashtra,Laptop,2,46757,Cash on Delivery,15629.86
+10869,2022-05-18,Customer_79,Kolkata,Delhi NCR,Headphones,2,79475,Credit Card,13826.99
+10870,2022-05-19,Customer_30,Bangalore,Tamil Nadu,Tablet,3,53257,Credit Card,47318.36
+10871,2022-05-20,Customer_106,Bangalore,Karnataka,Mobile,2,97500,Credit Card,19943.5
+10872,2022-05-21,Customer_51,Delhi,Karnataka,Laptop,3,2307,Cash on Delivery,571.59
+10873,2022-05-22,Customer_81,Mumbai,Tamil Nadu,Mobile,3,58889,Debit Card,17822.82
+10874,2022-05-23,Customer_133,Chennai,Maharashtra,Smartwatch,2,70895,Debit Card,34350.79
+10875,2022-05-24,Customer_29,Hyderabad,Karnataka,Smartwatch,1,97184,UPI,15197.29
+10876,2022-05-25,Customer_132,Mumbai,West Bengal,Headphones,1,37944,UPI,7260.74
+10877,2022-05-26,Customer_138,Kolkata,Telangana,Smartwatch,4,40134,Credit Card,8869.98
+10878,2022-05-27,Customer_184,Bangalore,Tamil Nadu,Smartwatch,4,29323,UPI,6874.23
+10879,2022-05-28,Customer_145,Delhi,Tamil Nadu,Tablet,2,73762,Cash on Delivery,23818.69
+10880,2022-05-29,Customer_74,Delhi,Karnataka,Tablet,1,89225,Cash on Delivery,22677.77
+10881,2022-05-30,Customer_17,Chennai,Maharashtra,Tablet,3,98507,UPI,80177.72
+10882,2022-05-31,Customer_84,Mumbai,West Bengal,Smartwatch,4,27954,UPI,8014.6
+10883,2022-06-01,Customer_69,Chennai,Maharashtra,Headphones,3,57021,UPI,31576.65
+10884,2022-06-02,Customer_34,Bangalore,Delhi NCR,Camera,4,91959,UPI,102371.49
+10885,2022-06-03,Customer_6,Chennai,Delhi NCR,Camera,2,97927,Credit Card,28789.2
+10886,2022-06-04,Customer_53,Hyderabad,Telangana,Mobile,1,81866,Credit Card,21071.61
+10887,2022-06-05,Customer_194,Delhi,Karnataka,Camera,4,72427,UPI,24168.58
+10888,2022-06-06,Customer_126,Delhi,Karnataka,Camera,1,6992,Cash on Delivery,1984.67
+10889,2022-06-07,Customer_43,Kolkata,Karnataka,Tablet,3,3961,Credit Card,2826.44
+10890,2022-06-08,Customer_115,Kolkata,Telangana,Tablet,2,14497,Cash on Delivery,8272.96
+10891,2022-06-09,Customer_111,Bangalore,Delhi NCR,Smartwatch,1,34551,Debit Card,7572.0
+10892,2022-06-10,Customer_151,Hyderabad,Maharashtra,Mobile,2,78384,Cash on Delivery,22080.93
+10893,2022-06-11,Customer_183,Mumbai,Telangana,Laptop,1,57755,UPI,16433.91
+10894,2022-06-12,Customer_80,Chennai,Telangana,Mobile,3,15255,Debit Card,5441.08
+10895,2022-06-13,Customer_95,Bangalore,Maharashtra,Mobile,3,6567,Credit Card,2621.08
+10896,2022-06-14,Customer_118,Kolkata,Karnataka,Headphones,2,50847,Credit Card,22901.7
+10897,2022-06-15,Customer_144,Chennai,West Bengal,Smartwatch,3,50003,Debit Card,36201.53
+10898,2022-06-16,Customer_8,Kolkata,Maharashtra,Headphones,4,22389,Cash on Delivery,25286.21
+10899,2022-06-17,Customer_132,Chennai,Delhi NCR,Mobile,1,46523,Credit Card,4708.16
+10900,2022-06-18,Customer_104,Mumbai,Tamil Nadu,Mobile,3,63576,UPI,47586.54
+10901,2022-06-19,Customer_132,Bangalore,Tamil Nadu,Mobile,4,45919,Debit Card,43097.1
+10902,2022-06-20,Customer_184,Chennai,Telangana,Camera,2,84103,UPI,11092.96
+10903,2022-06-21,Customer_25,Hyderabad,Tamil Nadu,Headphones,4,5358,Debit Card,3146.34
+10904,2022-06-22,Customer_195,Delhi,West Bengal,Mobile,2,90535,Credit Card,21853.59
+10905,2022-06-23,Customer_96,Hyderabad,Karnataka,Tablet,2,78524,Cash on Delivery,19807.3
+10906,2022-06-24,Customer_195,Hyderabad,Delhi NCR,Smartwatch,1,99057,Debit Card,29294.79
+10907,2022-06-25,Customer_155,Delhi,West Bengal,Smartwatch,1,7698,Debit Card,1621.93
+10908,2022-06-26,Customer_93,Hyderabad,Delhi NCR,Tablet,4,68809,UPI,63144.38
+10909,2022-06-27,Customer_160,Chennai,Delhi NCR,Smartwatch,1,95079,Credit Card,27967.91
+10910,2022-06-28,Customer_178,Chennai,Karnataka,Camera,1,57805,UPI,8341.29
+10911,2022-06-29,Customer_61,Chennai,Telangana,Camera,1,33349,Credit Card,8352.59
+10912,2022-06-30,Customer_122,Delhi,Tamil Nadu,Laptop,4,78777,UPI,49986.45
+10913,2022-07-01,Customer_51,Hyderabad,Karnataka,Laptop,3,52248,Debit Card,41910.75
+10914,2022-07-02,Customer_147,Delhi,West Bengal,Laptop,1,77033,UPI,7330.8
+10915,2022-07-03,Customer_21,Chennai,Telangana,Smartwatch,1,46041,Cash on Delivery,13210.15
+10916,2022-07-04,Customer_5,Hyderabad,West Bengal,Camera,4,33954,Credit Card,14218.97
+10917,2022-07-05,Customer_92,Hyderabad,Telangana,Camera,3,10002,Credit Card,3947.44
+10918,2022-07-06,Customer_170,Kolkata,West Bengal,Camera,1,71783,Debit Card,17159.59
+10919,2022-07-07,Customer_61,Kolkata,Karnataka,Tablet,2,89234,Credit Card,26491.57
+10920,2022-07-08,Customer_22,Mumbai,Telangana,Camera,4,21738,Cash on Delivery,17568.9
+10921,2022-07-09,Customer_149,Bangalore,Telangana,Tablet,1,12703,UPI,2047.0
+10922,2022-07-10,Customer_70,Kolkata,Delhi NCR,Laptop,1,51422,Debit Card,12114.64
+10923,2022-07-11,Customer_1,Delhi,Delhi NCR,Laptop,2,85106,Cash on Delivery,18226.78
+10924,2022-07-12,Customer_133,Kolkata,Maharashtra,Smartwatch,2,63899,Credit Card,8257.6
+10925,2022-07-13,Customer_12,Mumbai,West Bengal,Laptop,4,14392,Credit Card,7194.98
+10926,2022-07-14,Customer_90,Hyderabad,Delhi NCR,Smartwatch,4,46724,Cash on Delivery,31506.4
+10927,2022-07-15,Customer_46,Mumbai,Maharashtra,Mobile,2,34299,UPI,6311.36
+10928,2022-07-16,Customer_34,Hyderabad,Delhi NCR,Mobile,4,17641,UPI,9787.18
+10929,2022-07-17,Customer_177,Hyderabad,West Bengal,Headphones,2,81534,Debit Card,24459.51
+10930,2022-07-18,Customer_78,Bangalore,Telangana,Smartwatch,1,8305,Credit Card,534.41
+10931,2022-07-19,Customer_45,Kolkata,Tamil Nadu,Headphones,2,20782,Cash on Delivery,8139.35
+10932,2022-07-20,Customer_155,Delhi,West Bengal,Headphones,2,80257,UPI,43513.08
+10933,2022-07-21,Customer_73,Delhi,Karnataka,Mobile,3,79963,Debit Card,21094.81
+10934,2022-07-22,Customer_26,Chennai,Delhi NCR,Smartwatch,2,22566,Credit Card,9001.67
+10935,2022-07-23,Customer_47,Hyderabad,Delhi NCR,Mobile,2,69766,Credit Card,30164.7
+10936,2022-07-24,Customer_121,Delhi,Telangana,Headphones,3,8511,Debit Card,3953.37
+10937,2022-07-25,Customer_56,Bangalore,Karnataka,Smartwatch,4,28177,Debit Card,25390.23
+10938,2022-07-26,Customer_94,Hyderabad,Telangana,Headphones,3,6765,UPI,3098.7
+10939,2022-07-27,Customer_107,Bangalore,Karnataka,Camera,1,22354,Cash on Delivery,3937.87
+10940,2022-07-28,Customer_63,Delhi,Tamil Nadu,Smartwatch,3,25929,Credit Card,4032.34
+10941,2022-07-29,Customer_48,Delhi,Delhi NCR,Smartwatch,1,30820,Cash on Delivery,6870.7
+10942,2022-07-30,Customer_61,Chennai,Delhi NCR,Headphones,4,31523,Credit Card,27152.11
+10943,2022-07-31,Customer_81,Delhi,Tamil Nadu,Camera,3,73088,Credit Card,13068.18
+10944,2022-08-01,Customer_26,Hyderabad,Maharashtra,Tablet,3,68163,Cash on Delivery,29050.22
+10945,2022-08-02,Customer_36,Hyderabad,Telangana,Mobile,4,79525,Debit Card,93762.51
+10946,2022-08-03,Customer_1,Hyderabad,Tamil Nadu,Headphones,1,15780,UPI,2448.81
+10947,2022-08-04,Customer_8,Chennai,Telangana,Smartwatch,3,8589,Credit Card,4521.76
+10948,2022-08-05,Customer_113,Chennai,West Bengal,Mobile,1,36812,Debit Card,10214.69
+10949,2022-08-06,Customer_99,Delhi,Delhi NCR,Mobile,3,95664,Credit Card,65811.71
+10950,2022-08-07,Customer_180,Mumbai,Telangana,Mobile,2,47939,UPI,18745.83
+10951,2022-08-08,Customer_47,Mumbai,Karnataka,Tablet,3,53493,Credit Card,40031.67
+10952,2022-08-09,Customer_127,Chennai,Telangana,Laptop,4,95326,UPI,101461.78
+10953,2022-08-10,Customer_56,Delhi,West Bengal,Headphones,4,42953,UPI,28215.31
+10954,2022-08-11,Customer_14,Mumbai,Delhi NCR,Laptop,1,67785,Credit Card,11440.56
+10955,2022-08-12,Customer_28,Delhi,Tamil Nadu,Laptop,3,21309,Credit Card,9366.12
+10956,2022-08-13,Customer_78,Delhi,West Bengal,Laptop,1,56195,UPI,16390.76
+10957,2022-08-14,Customer_130,Delhi,Delhi NCR,Mobile,1,27901,Debit Card,6257.96
+10958,2022-08-15,Customer_109,Kolkata,Telangana,Camera,2,25576,Cash on Delivery,3621.86
+10959,2022-08-16,Customer_154,Hyderabad,Maharashtra,Mobile,2,33508,UPI,17808.83
+10960,2022-08-17,Customer_14,Delhi,Maharashtra,Mobile,4,76711,Credit Card,52206.43
+10961,2022-08-18,Customer_187,Kolkata,Karnataka,Smartwatch,1,27464,Credit Card,1845.26
+10962,2022-08-19,Customer_56,Chennai,Delhi NCR,Smartwatch,4,62281,Debit Card,46693.14
+10963,2022-08-20,Customer_115,Mumbai,Maharashtra,Laptop,3,18260,Cash on Delivery,8452.06
+10964,2022-08-21,Customer_7,Hyderabad,Tamil Nadu,Mobile,1,37440,UPI,10087.73
+10965,2022-08-22,Customer_3,Mumbai,Delhi NCR,Laptop,1,97082,UPI,9805.15
+10966,2022-08-23,Customer_111,Hyderabad,Tamil Nadu,Smartwatch,3,58683,Cash on Delivery,45177.02
+10967,2022-08-24,Customer_151,Mumbai,Tamil Nadu,Camera,3,43430,UPI,24679.81
+10968,2022-08-25,Customer_107,Hyderabad,Maharashtra,Headphones,4,3987,Cash on Delivery,1015.13
+10969,2022-08-26,Customer_18,Mumbai,Delhi NCR,Laptop,4,27105,Credit Card,31762.87
+10970,2022-08-27,Customer_38,Mumbai,Telangana,Camera,3,80484,Cash on Delivery,43015.59
+10971,2022-08-28,Customer_115,Mumbai,West Bengal,Headphones,4,15026,UPI,7375.92
+10972,2022-08-29,Customer_15,Mumbai,Maharashtra,Tablet,3,70309,Cash on Delivery,35298.99
+10973,2022-08-30,Customer_192,Chennai,Maharashtra,Laptop,1,47927,Debit Card,12674.99
+10974,2022-08-31,Customer_119,Delhi,Telangana,Laptop,1,77414,Credit Card,9771.64
+10975,2022-09-01,Customer_28,Bangalore,Delhi NCR,Tablet,2,59535,Credit Card,11688.99
+10976,2022-09-02,Customer_39,Kolkata,Delhi NCR,Tablet,1,44946,Cash on Delivery,3697.61
+10977,2022-09-03,Customer_185,Bangalore,Tamil Nadu,Laptop,3,58561,UPI,21866.36
+10978,2022-09-04,Customer_17,Bangalore,Telangana,Tablet,4,12377,Debit Card,12130.06
+10979,2022-09-05,Customer_86,Hyderabad,Telangana,Mobile,2,55592,Credit Card,18668.53
+10980,2022-09-06,Customer_126,Delhi,Delhi NCR,Headphones,4,9347,Credit Card,3995.67
+10981,2022-09-07,Customer_44,Hyderabad,Tamil Nadu,Headphones,3,35776,UPI,9825.48
+10982,2022-09-08,Customer_25,Delhi,Maharashtra,Headphones,1,5783,UPI,770.19
+10983,2022-09-09,Customer_145,Delhi,Karnataka,Mobile,2,57798,Debit Card,32942.67
+10984,2022-09-10,Customer_13,Mumbai,West Bengal,Tablet,3,6298,Cash on Delivery,2564.99
+10985,2022-09-11,Customer_25,Chennai,Maharashtra,Camera,2,72204,UPI,42893.66
+10986,2022-09-12,Customer_68,Mumbai,Delhi NCR,Tablet,2,88207,Cash on Delivery,30221.06
+10987,2022-09-13,Customer_138,Chennai,West Bengal,Laptop,1,57161,Debit Card,5418.35
+10988,2022-09-14,Customer_67,Hyderabad,Karnataka,Smartwatch,3,62652,Cash on Delivery,51271.58
+10989,2022-09-15,Customer_109,Chennai,Karnataka,Headphones,4,36484,Credit Card,24092.41
+10990,2022-09-16,Customer_146,Hyderabad,Tamil Nadu,Tablet,2,22922,Cash on Delivery,10425.74
+10991,2022-09-17,Customer_111,Bangalore,West Bengal,Camera,2,36028,Debit Card,21323.38
+10992,2022-09-18,Customer_111,Bangalore,Tamil Nadu,Laptop,4,22316,Debit Card,5582.91
+10993,2022-09-19,Customer_34,Chennai,Maharashtra,Mobile,3,78996,Debit Card,17578.26
+10994,2022-09-20,Customer_111,Chennai,Telangana,Mobile,2,18968,Cash on Delivery,8729.61
+10995,2022-09-21,Customer_8,Hyderabad,Telangana,Camera,2,32266,Credit Card,7773.28
+10996,2022-09-22,Customer_168,Mumbai,Telangana,Laptop,2,97745,UPI,18781.77
+10997,2022-09-23,Customer_113,Hyderabad,West Bengal,Headphones,3,26000,Credit Card,4667.56
+10998,2022-09-24,Customer_83,Mumbai,Telangana,Tablet,3,16011,Cash on Delivery,2663.99
+10999,2022-09-25,Customer_42,Bangalore,Maharashtra,Laptop,4,4866,Cash on Delivery,4741.85
+11000,2022-09-26,Customer_169,Delhi,Tamil Nadu,Mobile,3,7898,UPI,1981.02
